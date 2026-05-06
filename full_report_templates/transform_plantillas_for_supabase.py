@@ -5,7 +5,7 @@ from pathlib import Path
 INPUT_FILE = "plantillas_converted.csv"
 OUTPUT_FILE = "text_templates_full_report_templates.csv"
 
-VET_ID = "da07b0a1-53a8-42db-9c7a-748415bf9734"
+VET_ID = "ddf49cb2-ba19-4030-9194-5de45bac1e5e"
 CATEGORY = "full_report_template"
 
 
@@ -40,10 +40,7 @@ def main():
     output_df["category"] = CATEGORY
     output_df["label"] = df["NOMBPLAN"].apply(clean_text)
 
-    # For these full report templates, content is intentionally empty.
     # The large template goes into full_template_content.
-    output_df["content"] = ""
-
     output_df["full_template_content"] = df["INFOPLAN"].apply(clean_text)
 
     # Remove rows without a label and without full template content.

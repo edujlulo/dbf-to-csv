@@ -1,5 +1,5 @@
-"vet_id","category","label","content","full_template_content"
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","PREÑEZ CON PROBLEMAS","","MOTIVO DEL ESTUDIO ECOGRAFICO: SE HACE EXPLORACION ABDOMINAL PARA CONTROL DE PREÑEZ
+"vet_id","category","label","full_template_content"
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","PREÑEZ CON PROBLEMAS","MOTIVO DEL ESTUDIO ECOGRAFICO: SE HACE EXPLORACION ABDOMINAL PARA CONTROL DE PREÑEZ
 
 VEJIGA URINARIA: SE LOCALIZA LA VEJIGA EN REGION CAUDAL DEL ABDOMEN PARA UTILIZAR ESTA COMO VENTANA ACUSTICA
 
@@ -12,7 +12,7 @@ UNO DE LOS FETOS TIENE PROBLEMAS
 OTROS: DIAGNOSTICO PREÑEZ __ DIAS .
 
 SE  ANEXA VIDEO CON APARTES DE LA EXPLORACION ."
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","PREÑEZ NORMAL 2","","MOTIVO DEL ESTUDIO ECOGRAFICO: SE HACE EXPLORACION ABDOMINAL PARA CONTROL DE PREÑEZ
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","PREÑEZ NORMAL 2","MOTIVO DEL ESTUDIO ECOGRAFICO: SE HACE EXPLORACION ABDOMINAL PARA CONTROL DE PREÑEZ
 
 VEJIGA URINARIA: SE LOCALIZA LA VEJIGA EN REGION CAUDAL DEL ABDOMEN PARA UTILIZAR ESTA COMO VENTANA ACUSTICA
 
@@ -21,7 +21,7 @@ UTERO: SE LOCALIZA EL UTERO EL CUAL ESTA CON CONTENIDO DE  __ FETOS. TODOS PRESE
 OTROS: DIAGNOSTICO PREÑEZ __ DIAS .
 
 SE  ANEXA VIDEO CON APARTES DE LA EXPLORACION ."
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","INTESTINAL","","MOTIVO DEL ESTUDIO ECOGRAFICO: SE HACE EXPLORACION ABDOMINAL PARA CONTROL DE PREÑEZ
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","INTESTINAL","MOTIVO DEL ESTUDIO ECOGRAFICO: SE HACE EXPLORACION ABDOMINAL PARA CONTROL DE PREÑEZ
 
 VEJIGA URINARIA: SE LOCALIZA LA VEJIGA EN REGION CAUDAL DEL ABDOMEN PARA UTILIZAR ESTA COMO VENTANA ACUSTICA
 
@@ -35,7 +35,7 @@ _____________ _____________
 
 
                      ________________"
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","PLANTILLA URINARIA","","MOTIVO DEL ESTUDIO ECOGRAFICO: Presentación de vómitos
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","PLANTILLA URINARIA","MOTIVO DEL ESTUDIO ECOGRAFICO: Presentación de vómitos
 
 EQUIPO UTILIZADO: EDAN  ACCLARIX AX8,  transductor microconvex MC9-3TQ 5 a 9 MHZ
 
@@ -67,7 +67,7 @@ CAVIDAD ABDOMINAL: No se observa liquido libre en ninguno de sus 4 cuadrantes ab
 OTROS: Se recomienda realizar perfil hepato renal (Hemograma, Creatinina, Fosforo, Calcio, BUN, SDMA, Urianalisis, ALT, FA, GGT, ALB, Globulinas y Glucosa), complementar con radiografía tórax VD y LL.  Ecografías mensuales para valorar evolución y tamaño de los quistes renales.
 
 CONCLUSIONES: Presentación de Riñones poliquísticos del persa, descartar nefropatía con exámenes complementarios y seguimientos ecográficos."
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","MIELOLIPOMA ESPLENICO EN SENIL","","MOTIVO DEL ESTUDIO ECOGRAFICO: Ecografía abdominal por distención y/o dolor, alteración en su columna dificultando su marcha. 
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","MIELOLIPOMA ESPLENICO EN SENIL","MOTIVO DEL ESTUDIO ECOGRAFICO: Ecografía abdominal por distención y/o dolor, alteración en su columna dificultando su marcha. 
 
 EQUIPO UTILIZADO: EDAN  ACCLARIX AX8,  transductor microconvex MC9-3TQ 5 a 9 MHZ
 
@@ -97,7 +97,7 @@ GLANDULAS ADRENALES: GL Izquierda, tamaño y forma bilobulada y de característi
 CAVIDAD ABDOMINAL: No se observa liquido libre en ninguno de sus 4 cuadrantes abdominales Cisto Cólico CC, esplenorrenal SR , Hepato Diafragmático HD y Hepatorrenal HR.
 
 CONCLUSIONES: Por las alteraciones en cuerpo esplénico se recomienda realizar ecografía de control en 30 días para valorar evolución de los patrones hiperecoicos del Bazo y seguimiento de linfonodos, se sugiere realizar aspirado con aguja fina eco guiado y citología."
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","FELINO OBESO NORMAL ABDOMINAL","","MOTIVO DEL ESTUDIO ECOGRAFICO: Alteración en sistema urinario (FLUDT, hematuria, estranguria, oliguria, Urolitiasis)
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","FELINO OBESO NORMAL ABDOMINAL","MOTIVO DEL ESTUDIO ECOGRAFICO: Alteración en sistema urinario (FLUDT, hematuria, estranguria, oliguria, Urolitiasis)
 
 EQUIPO UTILIZADO: EDAN  ACCLARIX AX_,  transductor microconvex MC_-_TQ _ a _ MHZ
 
@@ -122,7 +122,7 @@ VEJIGA URINARIA: Ubicación anatómica normal en hipogastrio, con moderado conte
 GLANDULAS ADRENALES: GL Izquierda tamaño y forma bilobulada estándar, de características ultrasonográficas conservadas, en corte sagital se mide tamaño de longitud _.__ mm, polo craneal _.__ mm de ancho y caudal _.__ mm.
 
 CONCLUSIONES: Sin cambios aparentes abdominales sugestivos de patologías, si los síntomas persisten realizar perfil hepato renal (Hemograma, Creatinina, Fosforo, Calcio, BUN, SDMA, Uroanálisis, ALT, FA, GGT, ALB, Globulinas y Glucosa) y repetir ecografía."
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","FELINO ENF RENAL + GASTROPATIA UREMICA","","MOTIVO DEL ESTUDIO ECOGRAFICO: Control ecografico, Alteración analítica en sus exámenes de laboratorio Hemograma, Urianalisis y/o química sanguínea.
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","FELINO ENF RENAL + GASTROPATIA UREMICA","MOTIVO DEL ESTUDIO ECOGRAFICO: Control ecografico, Alteración analítica en sus exámenes de laboratorio Hemograma, Urianalisis y/o química sanguínea.
 
 EQUIPO UTILIZADO: EDAN  ACCLARIX AX_,  transductor microconvex MC_-_TQ _ a _ MHZ
 
@@ -165,7 +165,7 @@ OTROS: Por las alteraciones en sistema  gastrico y urinario se recomienda realiz
 NOTA. La ecografía es un método diagnostico complementario que no determina funcionalidad, ni tipo de celular de los órganos afectados, el diagnóstico ecográfico debe ser interpretado por el médico solicitante de acuerdo a la clínica y sus paraclínicos.
 
 CONCLUSIONES: Considerar presuntivo Linfoma Felino, gastropatía urémica e injuria renal crónica. Realizar ecografía en __ días posteriores al tratamiento para valorar evolución de Riñones, pliegues gástricos y Linfonodos."
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","ENDOMETRITIS Y MASA MAMARIA","","MOTIVO DEL ESTUDIO ECOGRAFICO: Ecografía abdominal, decaimiento y  Alteración analítica en sus exámenes de laboratorio Hemograma y/o química sanguínea. Nunca se le ha detectado el celo de forma evidente
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","ENDOMETRITIS Y MASA MAMARIA","MOTIVO DEL ESTUDIO ECOGRAFICO: Ecografía abdominal, decaimiento y  Alteración analítica en sus exámenes de laboratorio Hemograma y/o química sanguínea. Nunca se le ha detectado el celo de forma evidente
 
 EQUIPO UTILIZADO: EDAN  ACCLARIX AX_,  transductor microconvex MC_-_TQ _ a _ MHZ
 
@@ -192,7 +192,7 @@ LINFONODULOS: No se observaron linfonodos reactivos durante el estudio ecográfi
 GLANDULAS ADRENALES: GL Izquierda tamaño reducido y forma bilobulada, de características ultrasonográficas conservadas, en corte sagital se mide tamaño de longitud __.__ mm, polo craneal _.__ mm de ancho y caudal  _.__mm.
 
 GRANDES VASOS, VENAS Y ARTERIAS: Relación porta/ aorta = _.__ y vena cava caudal/ aorta = _.__ (variaciones normales)"
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","OCULAR NORMAL","","MOTIVO DEL ESTUDIO ECOGRAFICO: Paciente con alteración ocular, queratitis pigmentaria y ojo seco derecho.
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","OCULAR NORMAL","MOTIVO DEL ESTUDIO ECOGRAFICO: Paciente con alteración ocular, queratitis pigmentaria y ojo seco derecho.
 
 EQUIPO UTILIZADO: EDAN  ACCLARIX AX8,  transductor microconvex MC9-3TQ  5 a 9MHZ
 
@@ -201,7 +201,7 @@ Globos oculares derecho e izquierdo examinados usando técnica corneal directa: 
 Mediciones de la longitud axial ocular usando el modo B en ambos globos oculares cuyas medidas son casi idénticas. 
 
 No se aprecian anormalidades anatómicas, ni masas, ni desprendimientos de retina, ni cataratas, ni luxación de cristalino en el presente examen."
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","ABDOMEN HEMBRA NORMAL CASTRADA","","MOTIVO DEL ESTUDIO ECOGRAFICO: Ecografía abdominal, decaimiento y  Alteración analítica en sus exámenes de laboratorio Hemograma y/o química sanguínea. 
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","ABDOMEN HEMBRA NORMAL CASTRADA","MOTIVO DEL ESTUDIO ECOGRAFICO: Ecografía abdominal, decaimiento y  Alteración analítica en sus exámenes de laboratorio Hemograma y/o química sanguínea. 
 
 EQUIPO UTILIZADO: EDAN  ACCLARIX AX_,  transductor microconvex MC_-_TQ _ a _ MHZ
 
@@ -228,14 +228,14 @@ LINFONODULOS: No se observaron linfonodos reactivos durante el estudio ecográfi
 GLANDULAS ADRENALES: GL Izquierda tamaño reducido y forma bilobulada, de características ultrasonográficas conservadas, en corte sagital se mide tamaño de longitud __.__ mm, polo craneal _.__ mm de ancho y caudal _.__mm.
 
 GRANDES VASOS, VENAS Y ARTERIAS: Relación porta/ aorta = _.__ y vena cava caudal/ aorta = _.__ (variaciones normales)"
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","GESTACION 2","","Se localiza útero con contenido de fetos en ambos cuernos uterinos, el más caudal del izquierdo tiene feto presentación anterior o cefálica y el derecho con presentación posterior o pélvica.
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","GESTACION 2","Se localiza útero con contenido de fetos en ambos cuernos uterinos, el más caudal del izquierdo tiene feto presentación anterior o cefálica y el derecho con presentación posterior o pélvica.
 
 Se observan _ fetos totales de gestación de los cuales: _ en cuerno uterino izquierdo con fetocardia positiva, movimientos fetales fisiológicos, contenido anecoico de sacos gestacionales y _ feto en cuerno uterino derecho con fetocardia positiva. Formación de fetos que evidencian vejiga, estomago, tórax, esqueleto apendicular y corazón con medición Doppler de frecuencia cardiaca ___ lpm, medición céfalo pélvica de __.__mm y medida toraco pélvica __.__ mm. 
 
 Diámetros biparietales proporcionan edad aproximada de _ semanas, _ día y fecha de parto aproximada del __ al __ de febrero ____ (la fecha es un estimado aproximado que puede variar por estrés, condiciones medio ambientales y fisiológicas individuales, no siempre es exacto y se recomienda realizar seguimiento ecográfico hasta obtener identificación de asas intestinales fetales con movimientos peristálticos en la mayoría fetal)
 
 Nota: la ecografía es una prueba dinámica donde los cachorros están en movimiento en un abdomen cilíndrico donde puede variar el número de cachorros a la primera impresión, en algunas ocasiones un feto puede ser contado dos veces o alguno se puede esconder al ultrasonido por los órganos abdominales, para determinar confiabilidad en el número de cachorros  se recomienda repetir ecografía en __ días y realizar radiografía ventro dorsal para así determinar el número exacto de cachorros y su posicionamiento previo al parto."
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","PSEUDOGESTACION NORMAL","","MOTIVO DEL ESTUDIO ECOGRAFICO: Examen completo abdominal, inapetencia y un vomito, tuvo el celo hace mes y medio.
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","PSEUDOGESTACION NORMAL","MOTIVO DEL ESTUDIO ECOGRAFICO: Examen completo abdominal, inapetencia y un vomito, tuvo el celo hace mes y medio.
 
 EQUIPO UTILIZADO: EDAN  ACCLARIX AX8,  transductor microconvex MC9-3TQ 5 a 9 MHZ
 
@@ -268,7 +268,7 @@ GLANDULAS ADRENALES: GL Izquierda tamaño reducido y forma bilobulada, de caract
 GRANDES VASOS, VENAS Y ARTERIAS: Frecuencia cardiaca durante el examen ecográfico 142 lpm, por medición Doppler en aorta abdominal.
  
 Conclusión: no se observan cambio patológicos ni sugestivos de alteraciones sistémicas en el presente examen, contemplar pseudogestación por el aumento de glándula mamaria y el tamaño ovario uterino, si los síntomas persisten repetir ecografía en 15 días."
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","PIOMETRA","","MOTIVO DEL ESTUDIO ECOGRAFICO: Ecografía abdominal por alteración en su peso, decaimiento, hace __ días le paso el celo y hace _ meses le había llegado también.
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","PIOMETRA","MOTIVO DEL ESTUDIO ECOGRAFICO: Ecografía abdominal por alteración en su peso, decaimiento, hace __ días le paso el celo y hace _ meses le había llegado también.
 
 EQUIPO UTILIZADO: EDAN  ACCLARIX AX_,  transductor microconvex MC_-_TQ _ a _ MHZ
 
@@ -298,7 +298,7 @@ GL derecha tamaño y ubicación anatómica normal alrededor de la vena cava caud
 UTERO: Ventral a la vejiga se localiza cuello  uterino  con aumento del grosor en sus paredes, tanto en cuerno uterino derecho como izquierdo presenta contenido ecogénico difuso con movimiento, focos en suspensión, trabéculas ecogénicas de pared hacia el espacio endoluminal que dividen el útero en pequeños focos redondeados bien definidos anulares a lo largo de su trayecto, infiltrado quístico en mucosa y espacio endoluminal de distribución difusa, en corte transversal se mide tamaño de __.__ mm aproximado de diámetro.
 
 CONCLUSIONES: Por las alteraciones en sistema reproductor, los quistes endometriales  y la colecta en muñones uterinos se recomienda realizar laparotomía exploratoria con fines de OVH por la presuntiva presentación de Piometra, Hemómetra o Hiperplasia endometrial."
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","PIOMETRA 1","","MOTIVO DEL ESTUDIO ECOGRAFICO: Ecografía abdominal por alteración en su peso, decaimiento, hace 15 días le paso el celo y hace 2 meses le había llegado también.
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","PIOMETRA 1","MOTIVO DEL ESTUDIO ECOGRAFICO: Ecografía abdominal por alteración en su peso, decaimiento, hace 15 días le paso el celo y hace 2 meses le había llegado también.
 
 EQUIPO UTILIZADO: EDAN  ACCLARIX AX8,  transductor microconvex MC9-3TQ 5 a 9 MHZ
 
@@ -331,7 +331,7 @@ UTERO: Ventral a la vejiga se localiza cuello  uterino  con aumento del grosor e
 OVARIOS: Caudal al riñón derecho en fosa ovárica se aprecia una estructura morulada de múltiples quistes con refuerzo posterior y cavitaciones internas, se mide en corte longitudinal 11.32 mm de ancho x 12.38 mm de alto.
 
 CONCLUSIONES: Por las alteraciones en sistema reproductor, los quistes endometriales  y la colecta en muñones uterinos se recomienda realizar laparotomía exploratoria con fines de OVH por la presuntiva presentación de Piometra, Hemómetra o Hiperplasia endometrial."
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","TUMOR ESPLENICO HEMBRA","","MOTIVO DEL ESTUDIO ECOGRAFICO: Ecografía abdominal por presentar una masa abdominal muy grande que le vieron en otra veterinaria, adicional distención y/o dolor.
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","TUMOR ESPLENICO HEMBRA","MOTIVO DEL ESTUDIO ECOGRAFICO: Ecografía abdominal por presentar una masa abdominal muy grande que le vieron en otra veterinaria, adicional distención y/o dolor.
 
 EQUIPO UTILIZADO: EDAN  ACCLARIX AX_,  transductor microconvex MC_-_TQ _ a _ MHZ
 
@@ -354,7 +354,7 @@ INTESTINO GRUESO: Contenido gaseoso, en colon descendente y estratificación con
 VEJIGA URINARIA: Ubicación anatómica normal en hipogastrio, con moderado contenido anecoico puro, de forma ovoide en corte longitudinal, contorno regular en pared mucosa conservada y serosa hiperecogénica, Tamaño medido de pared en corte longitudinal cuerpo dorsal _.__mm y en craneal _.__ mm.
 
 Conclusiones: laparatomia exploratoria con fines de extraer en su totalidad la masa abdominal y estudio de histopatología para descarte de malignidad, repetir ecografía cada __ días para valoración de órganos abdominales y cardiaco. Realizar estudio de radiología de tórax en LLd, LLi,  y VD para descartar nódulos torácicos pulmonares cada _ meses."
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","CE DUODENAL PEPA DE MANGO","","MOTIVO DEL ESTUDIO ECOGRAFICO: Ecografía abdominal por vómitos, decaimiento, debilidad y distención con dolor.
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","CE DUODENAL PEPA DE MANGO","MOTIVO DEL ESTUDIO ECOGRAFICO: Ecografía abdominal por vómitos, decaimiento, debilidad y distención con dolor.
 
 EQUIPO UTILIZADO: EDAN  ACCLARIX AX_,  transductor microconvex MC_-_TQ _ a _ MHZ
 
@@ -381,7 +381,7 @@ LINFONODULOS: No se observaron linfonodos reactivos durante el estudio ecográfi
 GLANDULAS ADRENALES: GL Izquierda tamaño normal y forma bilobulada, de características ultrasonográficas conservadas, en corte sagital se mide tamaño de longitud __.__ mm, polo craneal _.__ mm de ancho y caudal _.__mm.
 
 Conclusiones: laparotomía exploratoria con fines de extraer el presuntivo cuerpo extraño en duodeno ascendente que se confirmó por cirugía posteriormente. Se recomienda realizar ecografía de control __ días posteriores al evento quirúrgico."
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","INFLAMACION EPIDIMO Y/O ABCESO ESCROTAL","","Presenta inflamación testicular, enrojecimiento y le duele.
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","INFLAMACION EPIDIMO Y/O ABCESO ESCROTAL","Presenta inflamación testicular, enrojecimiento y le duele.
 
 EQUIPO UTILIZADO: EDAN  ACCLARIX AX_,  transductor microconvex MC_-_TQ _ a _ MHZ.
 
@@ -416,7 +416,7 @@ LINFONODULOS: Linfonodo iliaco medial izquierdo isoecoico con relación al tejid
 CAVIDAD ABDOMINAL: No se observa liquido libre en ninguno de sus _ cuadrantes abdominales Cisto Cólico CC, esplenorrenal SR , Hepato Diafragmático HD y Hepatorrenal HR.
 
 CONCLUSIONES: hallazgos inflamatorios testiculares compatibles con absceso testicular y epididimal, traumatismo, hemorragia periférica, considerar y descartar brúcela canis por su potencial riesgo zoonótico, se recomienda abordar quirúrgicamente y tratamiento médico a consideración del clínico responsable del caso."
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","ABDOMEN NORMAL GATO HEMBRA CASTRADA","","MOTIVO DEL ESTUDIO ECOGRAFICO: Ecografía abdominal, presenta vómitos esporádicos  
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","ABDOMEN NORMAL GATO HEMBRA CASTRADA","MOTIVO DEL ESTUDIO ECOGRAFICO: Ecografía abdominal, presenta vómitos esporádicos  
 
 EQUIPO UTILIZADO: EDAN  ACCLARIX AX8,  transductor microconvex MC9-3TQ 5 a 9 MHZ
 
@@ -439,7 +439,7 @@ LINFONODULOS: No se observaron linfonodos reactivos durante el estudio ecográfi
 GLANDULAS ADRENALES: No evaluable
 CAVIDAD ABDOMINAL: No se observa liquido libre en ninguno de sus 4 cuadrantes abdominales Cisto Cólico CC, esplenorrenal SR, Hepato Diafragmático HD y Hepatorrenal HR.
 CONCLUSIONES: no se observan alteraciones abdominales en el examen ultrasonográfico realizado."
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","REMANENTE OVARICO Y ENDOMETRITIS","","MOTIVO DEL ESTUDIO ECOGRAFICO: Alteración en sistema urogenital, hace _ meses la operaron OVH por el flanco izq, tuvo problemas de cicatrización y cierre. Hace un par de días sangrado vagina y edema vulvar, se sospecha de remanente ovárico.
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","REMANENTE OVARICO Y ENDOMETRITIS","MOTIVO DEL ESTUDIO ECOGRAFICO: Alteración en sistema urogenital, hace _ meses la operaron OVH por el flanco izq, tuvo problemas de cicatrización y cierre. Hace un par de días sangrado vagina y edema vulvar, se sospecha de remanente ovárico.
 EQUIPO UTILIZADO: EDAN  ACCLARIX AX_,  transductor microconvex MC_-_TQ _ a _ MHZ, transductor lineal alta frecuencia L__- _HQ
 
 HIGADO: Presenta parénquima homogéneo de grano medio, márgenes lisos, ángulos rectos y es hipoecoico con respecto al bazo e isoecoico con relación a corteza renal derecha, bordes finos, triangulares sin exceder el límite anatómico normal del estómago ni del riñón derecho, los vasos sanguíneos aparecen como estructuras redondeadas anecoicas de patrón vascular normal.
@@ -470,7 +470,7 @@ OVARIOS: Caudal al riñón derecho en fosa ovárica se aprecia una estructura mo
 ÚTERO: Ventral a la vejiga se localiza el útero con aumento del grosor en sus paredes de cuello y cérvix, contenido ecogénico difuso sin movimiento ni focos suspensión, sugerente de diestro, endometritis o Hiperplasia endometrial o síndrome de remanente ovárica.
 
 Conclusiones: presuntivo síndrome de remanente ovárico, se sugiere realizar seguimiento de la estructura ovárica derecha y sus morulaciones cada __ días para verificar crecimiento y comportamiento en cuello uterino para descartar Piometra de muñón."
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","MACHO CRIPTORQUIDO IZQ ABDOMINAL","","MOTIVO DEL ESTUDIO ECOGRAFICO: presenta un solo testículo en su bolsa escrotal. 
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","MACHO CRIPTORQUIDO IZQ ABDOMINAL","MOTIVO DEL ESTUDIO ECOGRAFICO: presenta un solo testículo en su bolsa escrotal. 
 
 EQUIPO UTILIZADO: EDAN  ACCLARIX AX8,  transductor microconvex MC9-3TQ 5 a 9 MHZ
 
@@ -493,7 +493,7 @@ PROSTATA: Posición localizada en hipogastrio medio caudal al trígono vesical e
 CAVIDAD ABDOMINAL: No se observa liquido libre en ninguno de sus 4 cuadrantes abdominales Cisto Cólico CC, esplenorrenal SR, Hepato Diafragmático HD y Hepatorrenal HR.
 
 CONCLUSIONES: Paciente es criptórquido unilateral izquierdo en cavidad abdominal, que se confirma posteriormente en cirugía y se envía la gónada a histopatología para descarte de proceso maligno.  Se recomienda realizar estudio ecográfico cada 6 meses para valoración anatómica de órganos abdominales."
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","GATO MACHO NORMAL","","MOTIVO DEL ESTUDIO ECOGRAFICO: ecografía abdominal con énfasis en vías urinarias por posible FLUTD
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","GATO MACHO NORMAL","MOTIVO DEL ESTUDIO ECOGRAFICO: ecografía abdominal con énfasis en vías urinarias por posible FLUTD
 
 EQUIPO UTILIZADO: EDAN ACCLARIX AX8,  transductor microconvex MC9-3TQ 5 a 9 MHZ
 
@@ -522,7 +522,7 @@ GLANDULAS ADRENALES: No evaluables
 NOTA. La ecografía es un método diagnostico complementario que no determina función, el diagnóstico ecográfico debe ser interpretado por el médico solicitante de acuerdo con la clínica y sus paraclínicos.
 
 CONCLUSIONES: No se evidenciaron alteraciones de los órganos en el estudio realizado."
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","ABD MACHO NORMAL CASTRADO","","MOTIVO DEL ESTUDIO ECOGRAFICO: Alteración escrotal, por presentar unas masitas en piel del escroto, acude a orquiectomía electiva y ecografía abdominal para descarte de anormalidades orgánicas.
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","ABD MACHO NORMAL CASTRADO","MOTIVO DEL ESTUDIO ECOGRAFICO: Alteración escrotal, por presentar unas masitas en piel del escroto, acude a orquiectomía electiva y ecografía abdominal para descarte de anormalidades orgánicas.
 
 EDAN ACCLARIX AX8, transductor microconvex MC9-3TQ 5 a 9 MHZ, transductor lineal alta frecuencia L17- 7HQ
 
@@ -554,7 +554,7 @@ PROSTATA: Posición localizada en la cavidad pélvica, alrededor del cuello vesi
 CAVIDAD ABDOMINAL: No se observa liquido libre en ninguno de sus 4 cuadrantes abdominales Cisto Cólico CC, esplenorrenal SR , Hepato Diafragmático HD y Hepatorrenal HR.
 
 CONCLUSIONES: no se observan alteraciones abdominales en el examen ultrasonográfico realizado, se sugiere realizar seguimiento en 6 meses. Posterior a su cirugía de orquiectomía se envía a histopatología el tejido escrotal y gonadal para descarte de malignidad."
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","ENDOMETRITIS POST CELO Y DESCARTE DE PRE","","MOTIVO DEL ESTUDIO ECOGRAFICO: Ecografía abdominal, decaimiento y  hace un mes estuvo de monta con un perro, se desea saber si esta en embarazo. 
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","ENDOMETRITIS POST CELO Y DESCARTE DE PRE","MOTIVO DEL ESTUDIO ECOGRAFICO: Ecografía abdominal, decaimiento y  hace un mes estuvo de monta con un perro, se desea saber si esta en embarazo. 
 
 EQUIPO UTILIZADO: EDAN  ACCLARIX AX_,  transductor microconvex MC_-_TQ _ a _ MHZ
 
@@ -585,7 +585,7 @@ OVARIOS: Caudal al riñón izquierdo en  fosa ovárica se aprecia una estructura
 Caudal al riñón derecho en fosa ovárica se aprecia una estructura una estructura  morulada de  ecotextura mixta, tamaño de __.__ mm largo a _.__ mm ancho en corte longitudinal.
 
 Conclusiones: se descarta proceso de preñez, se sugiere control en __ días para valoración uterina por endometritis y su presuntiva evolución a Piometra o hiperplasia endometrial."
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","HEMBRA DISPLASIA RENAL , VB DOBLE HALO,","","MOTIVO DEL ESTUDIO ECOGRAFICO: Ecografía abdominal por distención y/o dolor, presentación de diarrea y presentación de vómitos
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","HEMBRA DISPLASIA RENAL , VB DOBLE HALO,","MOTIVO DEL ESTUDIO ECOGRAFICO: Ecografía abdominal por distención y/o dolor, presentación de diarrea y presentación de vómitos
 
 EQUIPO UTILIZADO: EDAN  ACCLARIX AX_,  transductor microconvex MC_-_TQ _ a _ MHZ
 
@@ -616,7 +616,7 @@ GL derecha, tamaño y forma alargada, de características ultrasonográficas con
 
 
 CONCLUSIONES: Se recomienda realizar ecografía en __ días posteriores al tratamiento para valorar evolución y realizar ecografía de control en _ meses y detallar ambos riñones para descartar mineralización, nefrolitiasis, displasia medular y/o fibrosis medular"
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","ABD HEMBRA CACHORRA NORMAL","","MOTIVO DEL ESTUDIO ECOGRAFICO: Ecografía abdominal, fiebre de origen inespecífico.
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","ABD HEMBRA CACHORRA NORMAL","MOTIVO DEL ESTUDIO ECOGRAFICO: Ecografía abdominal, fiebre de origen inespecífico.
 
 EQUIPO UTILIZADO: EDAN  ACCLARIX AX_,  transductor microconvex MC_-_TQ _ a _ MHZ
 
@@ -647,7 +647,7 @@ VEJIGA URINARIA: Ubicación anatómica normal en hipogastrio, con moderado conte
 LINFONODULOS: No se observaron linfonodos reactivos durante el estudio ecográfico.
 
 CONCLUSIONES: sin cambios patológicos abdominales presentes en el ultrasonido realizado, se sugiere realizar un control en __ días para evaluar grosor de paredes estomacales en fundus y cuerpo gástrico."
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","NEFRO + URO LITIASIS + NEOPLASIA  BAZO","","MOTIVO DEL ESTUDIO ECOGRAFICO: Ecografía abdominal hematuria crónica.
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","NEFRO + URO LITIASIS + NEOPLASIA  BAZO","MOTIVO DEL ESTUDIO ECOGRAFICO: Ecografía abdominal hematuria crónica.
 
 EQUIPO UTILIZADO: EDAN  ACCLARIX AX8,  transductor microconvex MC9-3TQ 5 a 9 MHZ
 
@@ -676,7 +676,7 @@ VEJIGA URINARIA: contornos irregulares en pared de mucosa por múltiples zonas e
 GLANDULAS ADRENALES: no evaluadas por agitación, nerviosismo e intranquilidad de la paciente.
 
 CONCLUSIONES: Se recomienda realizar ecografía en 30 días posteriores al tratamiento para dar seguimiento a alteraciones esplénicas, paredes vesicales y síndrome de riñón pequeño derecho y nefromegalia izquierda. Se sugiere realizar radiografías abdominales LL y VD por nefrolitiasis bilateral."
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","NEFRO + HIGAD + ADRENAL + ESPLENO + GL M","","MOTIVO DEL ESTUDIO ECOGRAFICO: Ecografía abdominal hematuria crónica.
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","NEFRO + HIGAD + ADRENAL + ESPLENO + GL M","MOTIVO DEL ESTUDIO ECOGRAFICO: Ecografía abdominal hematuria crónica.
 
 EQUIPO UTILIZADO: EDAN  ACCLARIX AX8,  transductor microconvex MC9-3TQ 5 a 9 MHZ
 
@@ -711,7 +711,7 @@ Por las lesiones y la presentación de múltiples masas mixtas mamarias se presu
 Se recomienda complementar con perfil hepato renal (Hemograma, Creatinina, Fosforo, Calcio, BUN, SDMA, Uroanálisis, ALT, FA, GGT, ALB, Globulinas y Glucosa)
 
 Se sugiere realizar radiografías torácicas LLD, LLI y VD para descartar nódulos."
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","NEOPL BAZO+ HIG + RIÑONES","","MOTIVO DEL ESTUDIO ECOGRAFICO: Ecografía abdominal masa de gran tamaño. 
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","NEOPL BAZO+ HIG + RIÑONES","MOTIVO DEL ESTUDIO ECOGRAFICO: Ecografía abdominal masa de gran tamaño. 
 
 EQUIPO UTILIZADO: EDAN  ACCLARIX AX8,  transductor microconvex MC9-3TQ de 5 a 9 MHZ y transductor lineal alta frecuencia L17- 7HQ de 9 a 17 MHZ.
 
@@ -748,7 +748,7 @@ Por las lesiones y la presentación de una gran masa esplénica se presume de s�
 Se recomienda complementar con perfil hepato renal (Hemograma, Creatinina, Fosforo, Calcio, BUN, SDMA, Uroanálisis, ALT, FA, GGT, ALB, Globulinas y Glucosa)
 
 Se sugiere realizar radiografías torácicas LLD, LLI y VD para descartar nódulos."
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","COLELITIASIS Y ABD NORMAL","","MOTIVO DEL ESTUDIO ECOGRAFICO: Ecografía abdominal  
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","COLELITIASIS Y ABD NORMAL","MOTIVO DEL ESTUDIO ECOGRAFICO: Ecografía abdominal  
 
 EQUIPO UTILIZADO: EDAN  ACCLARIX AX_,  transductor microconvex MC_-_TQ de _ a _ MHZ y transductor lineal alta frecuencia L__- _HQ de _ a __ MHZ.
 
@@ -782,7 +782,7 @@ CONCLUSIONES: Se recomienda realizar ecografías cada __ días para dar seguimie
 Se recomienda complementar con perfil hepato renal (Hemograma, Creatinina, Fosforo, Calcio, BUN, SDMA, Uroanálisis, ALT, FA, GGT, ALB, Globulinas y Glucosa)
 
 Se sugiere realizar radiografías torácicas LL, y VD para valorar litios en vesícula biliar."
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","LITIASIS MACHO Y RESTO NORMAL","","MOTIVO DEL ESTUDIO ECOGRAFICO: Ecografía vías urinarias, hematuria, disuria.
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","LITIASIS MACHO Y RESTO NORMAL","MOTIVO DEL ESTUDIO ECOGRAFICO: Ecografía vías urinarias, hematuria, disuria.
 
 EQUIPO UTILIZADO: EDAN  ACCLARIX AX8,  transductor microconvex MC9-3TQ 5 a 9 MHZ
 
@@ -806,7 +806,7 @@ PROSTATA: pequeña atrofiada, posición localizada en la cavidad pélvica, alred
 CONCLUSIONES: hallazgos vesicales de presuntivos urolitos, Se sugiere realizar Rx abdominal con neumocistografía para determinar litiasis vesical. Tratamiento, manejo y cirugía a criterio del médico tratante.  
 
 Se recomienda realizar control ecográfico en 30 días para seguimiento vesical y renal."
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","ABD NORMAL BDF","","MOTIVO DEL ESTUDIO ECOGRAFICO: Ecografía abdominal por distensión y dolor. 
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","ABD NORMAL BDF","MOTIVO DEL ESTUDIO ECOGRAFICO: Ecografía abdominal por distensión y dolor. 
 
 EQUIPO UTILIZADO: EDAN ACCLARIX AX8, transductor microconvex MC9-3TQ de 5 a 9 MHZ y transductor lineal alta frecuencia L17- 7HQ de 9 a 17 MHZ
 
@@ -835,7 +835,7 @@ VEJIGA URINARIA: Ubicación anatómica normal en hipogastrio, con moderado conte
 LINFONODULOS: No se observaron linfonodos reactivos durante el estudio ecográfico.
 
 CONCLUSIONES: paciente con aumentos de grosor de mucosa gástrica, antro pilórico, duodenal y movimientos de transito lento, se sugiere realizar un controles en 30 y 60 días para continuar evaluando grosor de paredes estomacales en fundus y cuerpo gástrico."
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","GASTROPATIA UREMICA + MUCOCELE + MACHO E","","MOTIVO DEL ESTUDIO ECOGRAFICO: paciente ictérico con sospechas de enfermedad hepática y renal, alteración analítica en sus exámenes de laboratorio Hemograma, Uroanálisis y/o química sanguínea.
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","GASTROPATIA UREMICA + MUCOCELE + MACHO E","MOTIVO DEL ESTUDIO ECOGRAFICO: paciente ictérico con sospechas de enfermedad hepática y renal, alteración analítica en sus exámenes de laboratorio Hemograma, Uroanálisis y/o química sanguínea.
 
 EQUIPO UTILIZADO: EDAN ACCLARIX AX_, transductor microconvex MC_-_TQ de _ a _ MHZ.
 
@@ -870,7 +870,7 @@ OTROS: Por las alteraciones en sistema gástrico y urinario se recomienda realiz
 NOTA. La ecografía es un método diagnostico complementario que no determina función, ni tipo de celular de los órganos afectados, el diagnóstico ecográfico debe ser interpretado por el médico solicitante de acuerdo a la clínica y sus paraclínicos.
 
 CONCLUSIONES: Considerar presuntivo cuadro de infección por Leptospirosis y/o hemoparasitosis (E.Cannis, Anaplasma Phagocytophilum, Babesia cannis), gastropatía urémica e injuria renal crónica. Realizar ecografía en __ a __ días posteriores al tratamiento para valorar evolución de vesícula biliar, Riñones, hígado, vejiga y pliegues gástricos."
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","FELINA NEFROLITISIS NEFROPATIA CRON+ RÑ","","MOTIVO DEL ESTUDIO ECOGRAFICO: Ecografía abdominal hematuria crónica.
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","FELINA NEFROLITISIS NEFROPATIA CRON+ RÑ","MOTIVO DEL ESTUDIO ECOGRAFICO: Ecografía abdominal hematuria crónica.
 
 EQUIPO UTILIZADO: EDAN ACCLARIX AX_, transductor microconvex MC_-_TQ _ a _ MHZ
 
@@ -903,7 +903,7 @@ Se recomienda complementar con perfil hepato renal (Hemograma, Creatinina, Fosfo
 Se sugiere implementar dieta renal o urinaria y tratamiento médico a criterio del colega tratante del caso. 
 
 Diagnósticos presuntivos: síndrome de riñón grande y riñón pequeño por nefropatía crónica y nefrolitiasis."
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","NEO HEP+ HEMO ABD+ NEFROLITIASIS","","MOTIVO DEL ESTUDIO ECOGRAFICO: Ecografía abdominal por distensión y dolor. 
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","NEO HEP+ HEMO ABD+ NEFROLITIASIS","MOTIVO DEL ESTUDIO ECOGRAFICO: Ecografía abdominal por distensión y dolor. 
 
 EQUIPO UTILIZADO: EDAN ACCLARIX AX_, transductor microconvex MC_-_TQ de _ a _ MHZ.
 
@@ -938,7 +938,7 @@ Por las lesiones y la presentación de la masa hepática se presume de síndrome
 Se recomienda complementar con perfil hepato renal (Hemograma, Creatinina, Fosforo, Calcio, BUN, SDMA, Uroanálisis, ALT, FA, GGT, ALB, Globulinas y Glucosa)
 
 Se sugiere realizar radiografías toraco abdominales LLD, LLI y VD para descartar nódulos."
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","OCULAR CATARATA + CRIPTORQUIDIA","","MOTIVO DEL ESTUDIO ECOGRAFICO: Paciente con alteración ocular por cambio de coloración en iris y opacidad posterior, paciente con criptorquidia izquierda. 
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","OCULAR CATARATA + CRIPTORQUIDIA","MOTIVO DEL ESTUDIO ECOGRAFICO: Paciente con alteración ocular por cambio de coloración en iris y opacidad posterior, paciente con criptorquidia izquierda. 
 
 EQUIPO UTILIZADO: EDAN ACCLARIX AX8, transductor microconvex MC9-3TQ de 5 a 9 MHZ y transductor lineal alta frecuencia L17- 7HQ de 9 a 17 MHZ.
 
@@ -957,7 +957,7 @@ Gónada izquierda posición anatómica anormal en cavidad intra abdominal sobre 
 CONCLUSIONES: cambios degenerativos en cristalino por presuntiva catarata en globo ocular derecho. Se sugiere valoración con oftalmología.
 
 Se recomienda orquiectomía y envió a histopatología de testículo abdominal retenido para descarte de malignidad."
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","NEO BAZO+ NEFRO+ HIG MACHO ENTERO","","MOTIVO DEL ESTUDIO ECOGRAFICO: Ecografía abdominal por agitación, distensión y dolor abdominal, se presume de masas. 
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","NEO BAZO+ NEFRO+ HIG MACHO ENTERO","MOTIVO DEL ESTUDIO ECOGRAFICO: Ecografía abdominal por agitación, distensión y dolor abdominal, se presume de masas. 
 
 EQUIPO UTILIZADO: EDAN ACCLARIX AX8, transductor microconvex MC9-3TQ de 5 a 9 MHZ y transductor lineal alta frecuencia L17- 7HQ de 9 a 17 MHZ.
 
@@ -992,15 +992,15 @@ PROSTATA: tamaño normal, posición localizada en la cavidad pélvica, alrededor
 TESTICULOS: En posición normal en su bolsa escrotal, Ambos conservan tamaño normal ovoide, ecogénicos, de textura fina homogénea, atravesado por una línea hiperecogénica del mediastino testicular. 
 
 CONCLUSIONES: paciente con alteraciones abdominales compatibles con linfoma, neoplasia esplénica hemangioma, nefropatía crónica y hepatopatía regional compatible con hiperplasia nodular."
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","MASAS MAMARIAS","","GLANDULA MAMARIA: presenta múltiples estructuras de ecogenicidad mixta aumentada con bordes irregulares en varias glándulas mamarias; en torácica izquierda lesiones focales mixtas con hierecogenicidad difusa rodeada de tejido anecoico y zonas hipoecoicas compatibles con hiperplasia nodular, lipoma, metástasis o carcinoma. 
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","MASAS MAMARIAS","GLANDULA MAMARIA: presenta múltiples estructuras de ecogenicidad mixta aumentada con bordes irregulares en varias glándulas mamarias; en torácica izquierda lesiones focales mixtas con hierecogenicidad difusa rodeada de tejido anecoico y zonas hipoecoicas compatibles con hiperplasia nodular, lipoma, metástasis o carcinoma. 
 
 En glándula mamaria inguinal izquierda un nódulo pequeño redondeado ecogénico con capsula definida, medida en corte longitudinal de 8.63 mm de largo y 6.97 mm de alto compatible con adenoma, sarcoma o fibroadenoma. Se sugiere realizar exéresis quirúrgica de la masa de glándula mamaria con estudio de histopatología para descartar malignidad.
 
 CONCLUSIONES: Por las alteraciones en sistema urinario se recomienda realizar exámenes complementarios según criterio médico tratante Se recomienda complementar con perfil hepato renal (Hemograma, Creatinina, Fosforo, Calcio, BUN, SDMA, ALT, FA, GGT, ALB, Globulinas y Glucosa), realizar radiografías toraco abdominales LL y VD.
 
 Repetir ecografía en 60 días posteriores al tratamiento para realizar seguimiento de su evolución."
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","CISTITIS FIBRINA Y COAGULOS","","VEJIGA URINARIA: Ubicación anatómica normal en hipogastrio de forma ovoide en corte longitudinal, contorno regular trilaminar, pared mucosa engrosada e irregular y serosa hiperecogénica, moderado contenido urinario de ecogenicidad mixta, predominancia anecoica, evidencia pequeños focos hiperecogénicos móviles en suspensión (micro litiasis), sedimento celular activo y membranas ecogénicas (fibrina), y coágulos sanguíneos por proceso inflamatorio crónico. Tamaño medido de pared en corte transversal de cuerpo ventral 2.26 mm, dorsal 1.95 mm y lateral 2.48 mm."
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","NEO BAZO HIG GLM CISTITIS FIBRINA","","MOTIVO DEL ESTUDIO ECOGRAFICO: Ecografía abdominal, masas de glándula mamaria, e historial de hematuria. 
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","CISTITIS FIBRINA Y COAGULOS","VEJIGA URINARIA: Ubicación anatómica normal en hipogastrio de forma ovoide en corte longitudinal, contorno regular trilaminar, pared mucosa engrosada e irregular y serosa hiperecogénica, moderado contenido urinario de ecogenicidad mixta, predominancia anecoica, evidencia pequeños focos hiperecogénicos móviles en suspensión (micro litiasis), sedimento celular activo y membranas ecogénicas (fibrina), y coágulos sanguíneos por proceso inflamatorio crónico. Tamaño medido de pared en corte transversal de cuerpo ventral 2.26 mm, dorsal 1.95 mm y lateral 2.48 mm."
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","NEO BAZO HIG GLM CISTITIS FIBRINA","MOTIVO DEL ESTUDIO ECOGRAFICO: Ecografía abdominal, masas de glándula mamaria, e historial de hematuria. 
 
 EQUIPO UTILIZADO: EDAN  ACCLARIX AX8,  transductor microconvex MC9-3TQ de 5 a 9 MHZ.
 
@@ -1037,35 +1037,19 @@ Por las lesiones y la presentación irregularidades esplénicas se presume de li
 Se recomienda complementar con perfil hepato renal (Hemograma, Creatinina, Fosforo, Calcio, BUN, SDMA, Uroanálisis, ALT, FA, GGT, ALB, Globulinas y Glucosa)
 
 Se sugiere realizar radiografías torácicas LLD, LLI y VD para descartar nódulos"
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","PREÑEZ NORMAL 3","","MOTIVO DEL ESTUDIO ECOGRAFICO: SE HACE EXPLORACION ABDOMINAL PARA CONTROL DE PREÑEZ
-
-VEJIGA URINARIA: SE LOCALIZA LA VEJIGA EN REGION CAUDAL DEL ABDOMEN PARA UTILIZAR ESTA COMO VENTANA ACUSTICA
-
-UTERO: SE LOCALIZA EL UTERO EL CUAL ESTA CON CONTENIDO DE  _ FETOS. TODOS PRESENTAN FETOCARDIA POSITIVA EN FRECUENCIAS  ADECUADAS. TODAS ESTAN POR ENCIMA DE __ LPM. SE HACEN MEDICIONES DE DIAMETRO BIPARIETAL A VARIOS FETOS. DONDE SE CALCULA LA EDAD GESTACIONAL EN  __ DIAS DIAS APROX.. TODOS LOS FETOS PRESENTAN UN DESARROLLO GESTACIONAL DEACUERDO A LA EDAD CALCULADA.. NO SE APRECIAN ANORMALIDADES VISIBLES EN ELLOS ,
-
-OTROS: DIAGNOSTICO PREÑEZ __ DIAS .
-
-SE  ANEXA VIDEO CON APARTES DE LA EXPLORACION .
-
-jkf v lñl lfb rfgb
-gn
-thnthn
-hm         vf fgb   ----    kdf rtg tgo g
-rgh
-rghrtgkh"
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","GESTACION ESPECIAL","","Se localiza útero con contenido de fetos en ambos cuernos uterinos, el más caudal del izquierdo tiene feto presentación anterior o cefálica y el derecho con presentación posterior o pélvica.
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","GESTACION ESPECIAL","Se localiza útero con contenido de fetos en ambos cuernos uterinos, el más caudal del izquierdo tiene feto presentación anterior o cefálica y el derecho con presentación posterior o pélvica.
 
 Se observan _ fetos totales de gestación de los cuales: _ en cuerno uterino izquierdo con fetocardia positiva, movimientos fetales fisiológicos, contenido anecoico de sacos gestacionales y _ feto en cuerno uterino derecho con fetocardia positiva. Formación de fetos que evidencian vejiga, estomago, tórax, esqueleto apendicular y corazón con medición Doppler de frecuencia cardiaca ___ lpm, medición céfalo pélvica de __.__mm y medida toraco pélvica __.__ mm. 
 
 Diámetros biparietales proporcionan edad aproximada de _ semanas, _ día y fecha de parto aproximada del __ al __ de febrero ____ (la fecha es un estimado aproximado que puede variar por estrés, condiciones medio ambientales y fisiológicas individuales, no siempre es exacto y se recomienda realizar seguimiento ecográfico hasta obtener identificación de asas intestinales fetales con movimientos peristálticos en la mayoría fetal)
 
 Nota: la ecografía es una prueba dinámica donde los cachorros están en movimiento en un abdomen cilíndrico donde puede variar el número de cachorros a la primera impresión, en algunas ocasiones un feto puede ser contado dos veces o alguno se puede esconder al ultrasonido por los órganos abdominales, para determinar confiabilidad en el número de cachorros  se recomienda repetir ecografía en __ días y realizar radiografía ventro dorsal para así determinar el número exacto de cachorros y su posicionamiento previo al parto."
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","GESTACION 1","","Se localiza útero con contenido de fetos en ambos cuernos uterinos, el más caudal del izquierdo tiene feto presentación anterior o cefálica y el derecho con presentación posterior o pélvica.
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","GESTACION 1","Se localiza útero con contenido de fetos en ambos cuernos uterinos, el más caudal del izquierdo tiene feto presentación anterior o cefálica y el derecho con presentación posterior o pélvica.
 
 Se observan _ fetos totales de gestación de los cuales: _ en cuerno uterino izquierdo con fetocardia positiva, movimientos fetales fisiológicos, contenido anecoico de sacos gestacionales y _ feto en cuerno uterino derecho con fetocardia positiva. Formación de fetos que evidencian vejiga, estomago, tórax, esqueleto apendicular y corazón con medición Doppler de frecuencia cardiaca ___ lpm, medición céfalo pélvica de __.__mm y medida toraco pélvica __.__ mm. 
 
 Diámetros biparietales proporcionan edad aproximada de _ semanas, _ día y fecha de parto aproximada del __ al __ de febrero ____ (la fecha es un estimado aproximado que puede variar por estrés, condiciones medio ambientales y fisiológicas individuales, no siempre es exacto y se recomienda realizar seguimiento ecográfico hasta obtener identificación de asas intestinales fetales con movimientos peristálticos en la mayoría fetal)"
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","GESTACION SANTHIAGO","","DESCRIPCIÓN:
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","GESTACION SANTHIAGO","DESCRIPCIÓN:
 
 Útero presentó megalia por presencia de aparente imagen fetal con los siguientes parámetros ecográficos:  Se evidenció adecuada diferenciación fetal entre cavidades toraco - abdominal, diferenciación ósea fetal, movimiento fetal, líquido en saco gestacional en cantidad esperada de acorde a fecha de gestación.
 
@@ -1081,43 +1065,100 @@ Fecha de control: A criterio del médico veterinario tratante.
 Obs: La ecografía es una prueba dinámica donde los cachorros están en movimiento en un abdomen cilíndrico donde puede variar el número de cachorros a la primera impresión, en algunas ocasiones un feto puede ser contado dos veces o alguno se puede esconder al ultrasonido por los órganos abdominales, para determinar confiabilidad en el número de cachorros se sugiere realizar placa radiográfica.
 
 El estudio ecográfico requiere la interpretación del médico veterinario."
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","RINOSCOPIA","","fkegkefle fñfb  --  dfñlvbdfbfkll 
-
-
-fgbgbgrfn 
-rgb gh
-n h
-gngh
-n 
-hn
-n 
-
-g"
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","PLANTILLA DE FETO MUERTO","","Se localiza útero con contenido de fetos en ambos cuernos uterinos, el más caudal del izquierdo tiene feto presentación anterior o cefálica y el derecho con presentación posterior o pélvica.
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","PLANTILLA DE FETO MUERTO","Se localiza útero con contenido de fetos en ambos cuernos uterinos, el más caudal del izquierdo tiene feto presentación anterior o cefálica y el derecho con presentación posterior o pélvica.
 
 Se observan _ fetos totales de gestación de los cuales: _ en cuerno uterino izquierdo con fetocardia positiva, movimientos fetales fisiológicos, contenido anecoico de sacos gestacionales y _ feto en cuerno uterino derecho con fetocardia positiva. Formación de fetos que evidencian vejiga, estomago, tórax, esqueleto apendicular y corazón con medición Doppler de frecuencia cardiaca ___ lpm, medición céfalo pélvica de __.__mm y medida toraco pélvica __.__ mm. 
 
 Se encuentra uno de los fetos muerto
 
 Diámetros biparietales proporcionan edad aproximada de _ semanas, _ día y fecha de parto aproximada del __ al __ de febrero ____ (la fecha es un estimado aproximado que puede variar por estrés, condiciones medio ambientales y fisiológicas individuales, no siempre es exacto y se recomienda realizar seguimiento ecográfico hasta obtener identificación de asas intestinales fetales con movimientos peristálticos en la mayoría fetal)"
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","PLANTILLA DE LA DRA NANCY","","HÍGADO: hiperecogenicidad, fibrosis, cirrosis, linfoma, tumor de mastocitos., eco estructura conservada, ecogenicidad y tamaño conservados, ecogenicidad reducida, hiperecoica en relación al hígado y presenta una gruesa ecotextura,  , ecogenicidad aumentada, con aumento de la atenuación distalBAZO: Capsula de predomineo lisa excepto por el quiste donde se torna irregular, Excepto por una estructura hipoecoica focal en cuerpo esplenico de __ mm diametroESTÓMAGO: Pared de grosor normal,  Contenido líquidoESTUDIO OCULAR: Catarata intumescence, Forma anormal del globo ocular por ruptura escleral o cornealCONCLUSIONES: ecografía en __ días posteriores al tratamiento para valorar evolución, Se recomienda realizar cita de consulta cardiología y panel cardiaco completo Rxs tórax  lateral y DV, Ecocardiografía, Electrocardiograma y medición de presión arterial.La interpretación y observaciones emitidas en este documento son relativas a imágenes obtenidas y evaluadas al momento del examen ecográfico, pudiendo sufrir alteraciones de acuerdo con la evolución en el cuadro clínico del paciente. El estudio ecográfico es un método complementario para el diagnóstico final del paciente que no determina función ni tipo celular de órganos por lo que es importante conjuntar historia clínica examen físico final y estudios laboratoriales. El estudio ecográfico requiere la interpretación del médico veterinario."
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","GESTACION 3","","Se localiza útero con contenido de fetos en ambos cuernos uterinos, el más caudal del izquierdo tiene feto presentación anterior o cefálica y el derecho con presentación posterior o pélvica.
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","PLANTILLA DE LA DRA NANCY","HÍGADO: hiperecogenicidad, fibrosis, cirrosis, linfoma, tumor de mastocitos., eco estructura conservada, ecogenicidad y tamaño conservados, ecogenicidad reducida, hiperecoica en relación al hígado y presenta una gruesa ecotextura,  , ecogenicidad aumentada, con aumento de la atenuación distal
+
+BAZO: Capsula de predomineo lisa excepto por el quiste donde se torna irregular, Excepto por una estructura hipoecoica focal en cuerpo esplenico de __ mm diametro
+
+ESTÓMAGO: Pared de grosor normal,  Contenido líquido
+
+ESTUDIO OCULAR: Catarata intumescence, Forma anormal del globo ocular por ruptura escleral o corneal
+
+CONCLUSIONES: ecografía en __ días posteriores al tratamiento para valorar evolución, Se recomienda realizar cita de consulta cardiología y panel cardiaco completo Rxs tórax  lateral y DV, Ecocardiografía, Electrocardiograma y medición de presión arterial.
+
+La interpretación y observaciones emitidas en este documento son relativas a imágenes obtenidas y evaluadas al momento del examen ecográfico, pudiendo sufrir alteraciones de acuerdo con la evolución en el cuadro clínico del paciente. El estudio ecográfico es un método complementario para el diagnóstico final del paciente que no determina función ni tipo celular de órganos por lo que es importante conjuntar historia clínica examen físico final y estudios laboratoriales. 
+
+El estudio ecográfico requiere la interpretación del médico veterinario."
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","GESTACION 3","Se localiza útero con contenido de fetos en ambos cuernos uterinos, el más caudal del izquierdo tiene feto presentación anterior o cefálica y el derecho con presentación posterior o pélvica.
 
 Se observan _ fetos totales de gestación de los cuales: _ en cuerno uterino izquierdo con fetocardia positiva, movimientos fetales fisiológicos, contenido anecoico de sacos gestacionales y _ feto en cuerno uterino derecho con fetocardia positiva. Formación de fetos que evidencian vejiga, estomago, tórax, esqueleto apendicular y corazón con medición Doppler de frecuencia cardiaca ___ lpm, medición céfalo pélvica de __.__mm y medida toraco pélvica __.__ mm."
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","PLANTILLA PARA DELFINES","","BAZO: Capsula de predomineo lisa excepto por el quiste donde se torna irregular, Ecotextura de predominio uniforme pero con leves y finos puntos hiperecoicos multifocales de presuntiva fibrosis, Eplenometria alcanzando un espesor de hasta __ mmESTÓMAGO: Estrato mucoso engrosado, Peristaltismo ausente, ileo, Pérdida total de la estratificación, Se observa imagen hiperecogénica con sombra acústica posterior, sugerente de cuerpo extraño. estomago hinchado tipo betaVEJIGA URINARIA: No se aprecian masas, ni urolitos, ni estructuras vegetativas, Presenta inflamación en pared vesical
-ESTUDIO OCULAR: Catarata intumescence, Estructuras ecogenicas en segmento posterior por hemorragia de retina, No se observa ninguna estructura brillante dentro de la cámara anterior o el cuerpo vítreo (normal)TÓRAX - PULMONES: Signo de deslizamiento pleural positivo (normal), Cohetes pulmonares o colas de cometa representativos de contusión pulmonar secundaria a trauma o edema intersticial en pacientes no traumatizadosLa interpretación y observaciones emitidas en este documento son relativas a imágenes obtenidas y evaluadas al momento del examen ecográfico, pudiendo sufrir alteraciones de acuerdo con la evolución en el cuadro clínico del paciente. El estudio ecográfico es un método complementario para el diagnóstico final del paciente que no determina función ni tipo celular de órganos por lo que es importante conjuntar historia clínica examen físico final y estudios laboratoriales. El estudio ecográfico requiere la interpretación del médico veterinario."
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","PLATILLA PARA DOGOS","","HÍGADO: Ecogenicidad mixta, presuntiva hepatopatía esteroidea asociada a hiperplasia, Linfoma, Hepatitis por confirmarBAZO: Tamaño fisiológico, posición normal en su proporción abdominal izquierda,  ecotextura de morfología uniforme, parénquima homogéneo, bordes lancelados, cápsula hiperecogénica lisa, Ecotextura de predominio uniforme pero con leves y finos puntos hiperecoicos multifocales de presuntiva fibrosis, Eplenometria alcanzando un espesor de hasta ___ mm, Tipo de problema tipo alfaESTÓMAGO: Estratificación menos evidenciable, , Pérdida total de la estratificaciónESTUDIO OCULAR: Catarata intumescence, Masa retrobulbar que mella focalmente el globo ocular, Notorio edema de la cabeza del nervio ópticoHUESOS: Imagen en modo B en la cual se distingue una clara interrupción de la continuidad esperada en  línea hiperecoica proximal del periostio, La superficie medial del fémur se muestra como una línea curva hiperecoica brillanteLa interpretación y observaciones emitidas en este documento son relativas a imágenes obtenidas y evaluadas al momento del examen ecográfico, pudiendo sufrir alteraciones de acuerdo con la evolución en el cuadro clínico del paciente. El estudio ecográfico es un método complementario para el diagnóstico final del paciente que no determina función ni tipo celular de órganos por lo que es importante conjuntar historia clínica examen físico final y estudios laboratoriales. El estudio ecográfico requiere la interpretación del médico veterinario."
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","PLANTILLA ESPECIAL","","MOTIVO DEL ESTUDIO ECOGRAFICO: Paciente Cardiópata con edema pulmonar alveolar, tuvo recientemente una recaída.EQUIPO UTILIZADO: Ecografia realizada en equipo  SONOSCAPE S_V , con trasductor microconvex de _ a _ MHZ ,VEJIGA URINARIA: con abundante sedimento urinario, presenta inflamación en pared vesical
-URETRA: No evaluadaLa interpretación y observaciones emitidas en este documento son relativas a imágenes obtenidas y evaluadas al momento del examen ecográfico, pudiendo sufrir alteraciones de acuerdo con la evolución en el cuadro clínico del paciente. El estudio ecográfico es un método complementario para el diagnóstico final del paciente que no determina función ni tipo celular de órganos por lo que es importante conjuntar historia clínica examen físico final y estudios laboratoriales. El estudio ecográfico requiere la interpretación del médico veterinario."
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","PLANTILLA NUBE","","BAZO: En corte longitudinal sobre el hilio esplénico se mide tamaño en ancho __ mm, Parénquima esplenico de  ecotextura isoecoica comparada con corteza renal, Tamaño fisiológico, posición normal en su proporción abdominal izquierda,  ecotextura de morfología uniforme, parénquima homogéneo, bordes lancelados, cápsula hiperecogénica lisa, Agrandamiento tipo alfaPÁNCREAS: Ecogenicidad reducida, Se observa imágenes pseudoquísticaESTÓMAGO: Distensión moderada, Pared de grosor normal, Pseudoestratificación, Se observa lesión excavada sugerente de úlcera gástrica.ÚTERO: Nota:** recomienda realizar ecografía de control con Radiografía LL o VD para determinar el número exacto de cachorros y su posicionamiento previo al parto., LATIDO FETAL:  De ___ a ___ lpm estrés fetal en riesgo, Presentación  posterior o pélvica ,OVARIOS: Con presentación anecoica redondeada en su interior de presuntivo quiste o folículo de graff, No se observa ovario derechoESTUDIO OCULAR: Catarata intumescence, Hemorragia vítrea con material ecogénico presente en el segmento posterior, No se observa ninguna estructura brillante dentro de la cámara anterior o el cuerpo vítreo (normal)La interpretación y observaciones emitidas en este documento son relativas a imágenes obtenidas y evaluadas al momento del examen ecográfico, pudiendo sufrir alteraciones de acuerdo con la evolución en el cuadro clínico del paciente. El estudio ecográfico es un método complementario para el diagnóstico final del paciente que no determina función ni tipo celular de órganos por lo que es importante conjuntar historia clínica examen físico final y estudios laboratoriales. El estudio ecográfico requiere la interpretación del médico veterinario."
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","PLANTILLA ANI","",""
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","PLANTILLA PARA GESTACION DE GATA SIAMES","","RIÑÓN IZQUIERDO: Conserva buena relación y diferenciación corticomedular, En cortical presenta una área periférica de ecogenicidad reducida anecoica y un área central cortical hiperecoica  de relación iso ecogénica con respecto al hígadoBAZO: En corte longitudinal sobre el hilio esplénico se mide tamaño en ancho __ mm, Parénquima hipoecoico, Eplenometria alcanzando un espesor de hasta __ mmESTÓMAGO: Con pared de grosor normal, peristaltismo normal, estratificación conservada y contenido gaseoso, Peristaltismo ausente, ileo, Se observa imagen hiperecogénica con sombra acústica posterior, sugerente de cuerpo extraño.ESTUDIO OCULAR: Catarata intumescence, Forma anormal del globo ocular por encogimiento Tisis o micro oftalmia, Material ecogénico en cámara posterior por luxación del cristalino, Medición de la vaina del nervio ópticoLa interpretación y observaciones emitidas en este documento son relativas a imágenes obtenidas y evaluadas al momento del examen ecográfico, pudiendo sufrir alteraciones de acuerdo con la evolución en el cuadro clínico del paciente. El estudio ecográfico es un método complementario para el diagnóstico final del paciente que no determina función ni tipo celular de órganos por lo que es importante conjuntar historia clínica examen físico final y estudios laboratoriales. El estudio ecográfico requiere la interpretación del médico veterinario."
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","GESTACION SIN FETOS","","Se localiza útero con contenido de fetos en ambos cuernos uterinos, el más caudal del izquierdo tiene feto presentación anterior o cefálica y el derecho con presentación posterior o pélvica.
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","PLANTILLA PARA DELFINES","BAZO: Capsula de predomineo lisa excepto por el quiste donde se torna irregular, Ecotextura de predominio uniforme pero con leves y finos puntos hiperecoicos multifocales de presuntiva fibrosis, Eplenometria alcanzando un espesor de hasta __ mm
+
+ESTÓMAGO: Estrato mucoso engrosado, Peristaltismo ausente, ileo, Pérdida total de la estratificación, Se observa imagen hiperecogénica con sombra acústica posterior, sugerente de cuerpo extraño. estomago hinchado tipo beta
+
+VEJIGA URINARIA: No se aprecian masas, ni urolitos, ni estructuras vegetativas, Presenta inflamación en pared vesical
+
+
+ESTUDIO OCULAR: Catarata intumescence, Estructuras ecogenicas en segmento posterior por hemorragia de retina, No se observa ninguna estructura brillante dentro de la cámara anterior o el cuerpo vítreo (normal)
+
+TÓRAX - PULMONES: Signo de deslizamiento pleural positivo (normal), Cohetes pulmonares o colas de cometa representativos de contusión pulmonar secundaria a trauma o edema intersticial en pacientes no traumatizados
+
+La interpretación y observaciones emitidas en este documento son relativas a imágenes obtenidas y evaluadas al momento del examen ecográfico, pudiendo sufrir alteraciones de acuerdo con la evolución en el cuadro clínico del paciente. El estudio ecográfico es un método complementario para el diagnóstico final del paciente que no determina función ni tipo celular de órganos por lo que es importante conjuntar historia clínica examen físico final y estudios laboratoriales. 
+
+El estudio ecográfico requiere la interpretación del médico veterinario."
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","PLATILLA PARA DOGOS","HÍGADO: Ecogenicidad mixta, presuntiva hepatopatía esteroidea asociada a hiperplasia, Linfoma, Hepatitis por confirmar
+
+BAZO: Tamaño fisiológico, posición normal en su proporción abdominal izquierda,  ecotextura de morfología uniforme, parénquima homogéneo, bordes lancelados, cápsula hiperecogénica lisa, Ecotextura de predominio uniforme pero con leves y finos puntos hiperecoicos multifocales de presuntiva fibrosis, Eplenometria alcanzando un espesor de hasta ___ mm, Tipo de problema tipo alfa
+
+ESTÓMAGO: Estratificación menos evidenciable, , Pérdida total de la estratificación
+
+ESTUDIO OCULAR: Catarata intumescence, Masa retrobulbar que mella focalmente el globo ocular, Notorio edema de la cabeza del nervio óptico
+
+HUESOS: Imagen en modo B en la cual se distingue una clara interrupción de la continuidad esperada en  línea hiperecoica proximal del periostio, La superficie medial del fémur se muestra como una línea curva hiperecoica brillante
+
+La interpretación y observaciones emitidas en este documento son relativas a imágenes obtenidas y evaluadas al momento del examen ecográfico, pudiendo sufrir alteraciones de acuerdo con la evolución en el cuadro clínico del paciente. El estudio ecográfico es un método complementario para el diagnóstico final del paciente que no determina función ni tipo celular de órganos por lo que es importante conjuntar historia clínica examen físico final y estudios laboratoriales. 
+
+El estudio ecográfico requiere la interpretación del médico veterinario."
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","PLANTILLA ESPECIAL","MOTIVO DEL ESTUDIO ECOGRAFICO: Paciente Cardiópata con edema pulmonar alveolar, tuvo recientemente una recaída.
+
+EQUIPO UTILIZADO: Ecografia realizada en equipo  SONOSCAPE S_V , con trasductor microconvex de _ a _ MHZ ,
+
+VEJIGA URINARIA: con abundante sedimento urinario, presenta inflamación en pared vesical
+
+
+URETRA: No evaluada
+
+La interpretación y observaciones emitidas en este documento son relativas a imágenes obtenidas y evaluadas al momento del examen ecográfico, pudiendo sufrir alteraciones de acuerdo con la evolución en el cuadro clínico del paciente. El estudio ecográfico es un método complementario para el diagnóstico final del paciente que no determina función ni tipo celular de órganos por lo que es importante conjuntar historia clínica examen físico final y estudios laboratoriales. 
+
+El estudio ecográfico requiere la interpretación del médico veterinario."
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","PLANTILLA NUBE","BAZO: En corte longitudinal sobre el hilio esplénico se mide tamaño en ancho __ mm, Parénquima esplenico de  ecotextura isoecoica comparada con corteza renal, Tamaño fisiológico, posición normal en su proporción abdominal izquierda,  ecotextura de morfología uniforme, parénquima homogéneo, bordes lancelados, cápsula hiperecogénica lisa, Agrandamiento tipo alfa
+
+PÁNCREAS: Ecogenicidad reducida, Se observa imágenes pseudoquística
+
+ESTÓMAGO: Distensión moderada, Pared de grosor normal, Pseudoestratificación, Se observa lesión excavada sugerente de úlcera gástrica.
+
+ÚTERO: Nota:** recomienda realizar ecografía de control con Radiografía LL o VD para determinar el número exacto de cachorros y su posicionamiento previo al parto., LATIDO FETAL:  De ___ a ___ lpm estrés fetal en riesgo, Presentación  posterior o pélvica ,
+
+OVARIOS: Con presentación anecoica redondeada en su interior de presuntivo quiste o folículo de graff, No se observa ovario derecho
+
+ESTUDIO OCULAR: Catarata intumescence, Hemorragia vítrea con material ecogénico presente en el segmento posterior, No se observa ninguna estructura brillante dentro de la cámara anterior o el cuerpo vítreo (normal)
+
+La interpretación y observaciones emitidas en este documento son relativas a imágenes obtenidas y evaluadas al momento del examen ecográfico, pudiendo sufrir alteraciones de acuerdo con la evolución en el cuadro clínico del paciente. El estudio ecográfico es un método complementario para el diagnóstico final del paciente que no determina función ni tipo celular de órganos por lo que es importante conjuntar historia clínica examen físico final y estudios laboratoriales. 
+
+El estudio ecográfico requiere la interpretación del médico veterinario."
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","PLANTILLA PARA GESTACION DE GATA SIAMES","RIÑÓN IZQUIERDO: Conserva buena relación y diferenciación corticomedular, En cortical presenta una área periférica de ecogenicidad reducida anecoica y un área central cortical hiperecoica  de relación iso ecogénica con respecto al hígado
+
+BAZO: En corte longitudinal sobre el hilio esplénico se mide tamaño en ancho __ mm, Parénquima hipoecoico, Eplenometria alcanzando un espesor de hasta __ mm
+
+ESTÓMAGO: Con pared de grosor normal, peristaltismo normal, estratificación conservada y contenido gaseoso, Peristaltismo ausente, ileo, Se observa imagen hiperecogénica con sombra acústica posterior, sugerente de cuerpo extraño.
+
+ESTUDIO OCULAR: Catarata intumescence, Forma anormal del globo ocular por encogimiento Tisis o micro oftalmia, Material ecogénico en cámara posterior por luxación del cristalino, Medición de la vaina del nervio óptico
+
+La interpretación y observaciones emitidas en este documento son relativas a imágenes obtenidas y evaluadas al momento del examen ecográfico, pudiendo sufrir alteraciones de acuerdo con la evolución en el cuadro clínico del paciente. El estudio ecográfico es un método complementario para el diagnóstico final del paciente que no determina función ni tipo celular de órganos por lo que es importante conjuntar historia clínica examen físico final y estudios laboratoriales. 
+
+El estudio ecográfico requiere la interpretación del médico veterinario."
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","GESTACION SIN FETOS","Se localiza útero con contenido de fetos en ambos cuernos uterinos, el más caudal del izquierdo tiene feto presentación anterior o cefálica y el derecho con presentación posterior o pélvica.
 
  
 
 Diámetros biparietales proporcionan edad aproximada de _ semanas, _ día y fecha de parto aproximada del __ al __ de febrero ____ (la fecha es un estimado aproximado que puede variar por estrés, condiciones medio ambientales y fisiológicas individuales, no siempre es exacto y se recomienda realizar seguimiento ecográfico hasta obtener identificación de asas intestinales fetales con movimientos peristálticos en la mayoría fetal)"
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","PLANTILLA NESIS","","HÍGADO: Hepatomegalia focal o asimétrica, trombosis, torsión lobular, hematoma,, Hiperecogenicidad, hepatopatía esteroidal, Lipidosis, hepatopatías vacuolares, hepatitis crónica,
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","PLANTILLA NESIS","HÍGADO: Hepatomegalia focal o asimétrica, trombosis, torsión lobular, hematoma,, Hiperecogenicidad, hepatopatía esteroidal, Lipidosis, hepatopatías vacuolares, hepatitis crónica,
 
 PÁNCREAS: Ecogenicidad reducida, Se observa imágenes pseudoquística
 
@@ -1127,7 +1168,7 @@ COLON: Contenido líquido con focos ecogénicos en suspensión. tamaño __ cm
 
 
 ESTUDIO OCULAR: Catarata intumescence, Forma anormal del globo ocular por ruptura escleral o corneal, Nódulo hiperecogénico en cámara anterior __"
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","PLANTILLA  ERIKA 1","","MOTIVO DEL ESTUDIO ECOGRAFICO: Examen completo abdominal, Presentación de TOS, Posible masa abdominal, Presentación de vómitos
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","PLANTILLA  ERIKA 1","MOTIVO DEL ESTUDIO ECOGRAFICO: Examen completo abdominal, Presentación de TOS, Posible masa abdominal, Presentación de vómitos
 
 EQUIPO UTILIZADO: Mindray 678  u
 
@@ -1142,7 +1183,7 @@ ESTÓMAGO: Estrato mucoso engrosado, Peristaltismo ausente, ileo, Pérdida total
 GLÁNDULAS MAMARIAS: Presenta una estructura de ecotextura mixta glandular
 
 ESTUDIO OCULAR: Catarata intumescence, Material ecogénico en cámara anterior por luxación del cristalino, Pared posterior ojo brillante en  línea curva lisa sin estructuras hiperecoicas adyacentes (normal)"
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","CONSULTA CARDIOLOGICA","","MOTIVO DEL ESTUDIO ECOGRAFICO: Presentación de vómitos, Posible masa abdominal, Presentación de diarrea
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","CONSULTA CARDIOLOGICA","MOTIVO DEL ESTUDIO ECOGRAFICO: Presentación de vómitos, Posible masa abdominal, Presentación de diarrea
 
 EQUIPO UTILIZADO: Sonoscape ultra ___  con adaptador frontal
 
@@ -1153,24 +1194,20 @@ BAZO: Capsula de predomineo lisa excepto por el quiste donde se torna irregular,
 PRÓSTATA: Compatibilidad con Hiperplasia, Hemisferios prostaticos evidencian asimetría, Corte transversal mide __ mm ancho y __ mm alto
 
 CONCLUSIONES: Se recomienda realizar cita de consulta cardiología y panel cardiaco completo Rxs tórax  lateral y DV, Ecocardiografía, Electrocardiograma y medición de presión arterial."
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","PLANTILLA VICTOR","","MOTIVO DEL ESTUDIO ECOGRAFICO: Examen completo abdominal, CriptorquidiaPÁNCREAS: Se observa imágenes pseudoquísticaESTÓMAGO: Pared de grosor normal, Peristaltismo disminuido con retraso en vaciamiento gástrico, Pérdida total de la estratificaciónVEJIGA URINARIA: Con leve contenido urinario se evalúa tamaño de pared vesical craneal __ mm, pared ventral __mm, pared dorsal __mm, Se aprecian dos estructuras móviles  hiperecoicas con sombra acústica de _ a _ mm de diámetro sugerentes de litios vesicales.ESTUDIO OCULAR: Catarata intumescence, Material ecogénico en cámara anterior por luxación del cristalinoESTUDIO MUSCULAR: Deformación indiferenciada de los planos musculares o no caracterizada de presentación ecogénica mixtaCONCLUSIONES: Por las alteraciones en sistema urinario se recomienda realizar Exámenes complementarios según criterio médico tratante (Hemograma, creatinina, fosforo, BUN, Urianalisis con urocultivo) y repetir"
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","PLANTILLA CARACBALLA","","largo __
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","PLANTILLA VICTOR","MOTIVO DEL ESTUDIO ECOGRAFICO: Examen completo abdominal, Criptorquidia
 
-iksdfjkl
-df
-d
-d
-fg
-fg
+PÁNCREAS: Se observa imágenes pseudoquística
 
-fg
-fg
-fg
+ESTÓMAGO: Pared de grosor normal, Peristaltismo disminuido con retraso en vaciamiento gástrico, Pérdida total de la estratificación
 
-fg
-fh
-ui"
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","GESTACION MANUEL","","Se localiza útero con contenido de fetos en ambos cuernos uterinos, el más caudal del izquierdo tiene feto presentación anterior o cefálica y el derecho con presentación posterior o pélvica.
+VEJIGA URINARIA: Con leve contenido urinario se evalúa tamaño de pared vesical craneal __ mm, pared ventral __mm, pared dorsal __mm, Se aprecian dos estructuras móviles  hiperecoicas con sombra acústica de _ a _ mm de diámetro sugerentes de litios vesicales.
+
+ESTUDIO OCULAR: Catarata intumescence, Material ecogénico en cámara anterior por luxación del cristalino
+
+ESTUDIO MUSCULAR: Deformación indiferenciada de los planos musculares o no caracterizada de presentación ecogénica mixta
+
+CONCLUSIONES: Por las alteraciones en sistema urinario se recomienda realizar Exámenes complementarios según criterio médico tratante (Hemograma, creatinina, fosforo, BUN, Urianalisis con urocultivo) y repetir"
+"ddf49cb2-ba19-4030-9194-5de45bac1e5e","full_report_template","GESTACION MANUEL","Se localiza útero con contenido de fetos en ambos cuernos uterinos, el más caudal del izquierdo tiene feto presentación anterior o cefálica y el derecho con presentación posterior o pélvica.
 
 Se observan _ fetos totales de gestación de los cuales: _ en cuerno uterino izquierdo con fetocardia positiva, movimientos fetales fisiológicos, contenido anecoico de sacos gestacionales y _ feto en cuerno uterino derecho con fetocardia positiva. Formación de fetos que evidencian vejiga, estomago, tórax, esqueleto apendicular y corazón con medición Doppler de frecuencia cardiaca __ lpm, medición céfalo pélvica de __.__ mm y medida toraco pélvica  mm. 
 
@@ -1179,63 +1216,3 @@ Diámetros biparietales proporcionan edad aproximada de _ semanas, _ días y fec
 Nota: la ecografía es una prueba dinámica donde los cachorros están en movimiento en un abdomen cilíndrico donde puede variar el número de cachorros a la primera impresión, en algunas ocasiones un feto puede ser contado dos veces o alguno se puede esconder al ultrasonido por los órganos abdominales, para determinar confiabilidad en el número de cachorros  se recomienda repetir ecografía en __ días y realizar radiografía ventro dorsal para así determinar el número exacto de cachorros y su posicionamiento previo al parto.
 
 gato"
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","PRUEBA GESTACION","","SDFASDFASADFASDFASDFSDFA"
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","PRUEBA 2","","SDFASDFASADFASDFASDFSDFA
-
-HELLO WORLD AKSDJFLKASJDFJ 
-
-KLSADJFLKASDJF
-
-sadasdfasdfsdf"
-"da07b0a1-53a8-42db-9c7a-748415bf9734","full_report_template","","","MOTIVO DEL ESTUDIO ECOGRAFICO: Ecografía abdominal, fiebre de origen inespecífico.
-
-EQUIPO UTILIZADO: EDAN  ACCLARIX AX_,  transductor microconvex MC_-_TQ _ a _ MHZ
-
-HIGADO: Presenta parénquima homogéneo de grano medio, márgenes lisos, ángulos rectos y es hipoecoico con respecto al bazo e isoecoico con relación a corteza renal derecha, bordes finos, triangulares sin exceder el límite anatómico normal del estómago ni del riñón derecho, los vasos sanguíneos aparecen como estructuras redondeadas anecoicas de patrón vascular normal.
-
-VESICULA BILIAR: Contenido anecoico puro, forma piriforme al corte longitudinal, con distensión normal, capsula de pared fina ecogénica de grosor normal.
-
-RIÑÓN IZQUIERDO: Tamaño y ubicación anatómica normal, capsula de superficie lisa, regular y ecogénica, conserva buena relación y diferenciación corticomedular, en corte longitudinal se mide tamaño en ancho __.__mm y largo __.__mm con corteza renal de _.__ mm, en corte transversal renal se mide tamaño en alto __.__mm.
-
-RIÑÓN DERECHO: Tamaño y ubicación anatómica normal alojado en la fosa renal del lóbulo caudado hepático, con la misma descripción ecográfica del riñón contralateral, en corte longitudinal se mide tamaño en ancho __. mm y largo __.__ mm, con corteza renal de _.__ mm, en corte transversal renal se mide tamaño en alto __.__mm.
-
-GATO 
-
-BAZO: Tamaño fisiológico, posición normal en su proporción abdominal izquierda, ecotextura de morfología uniforme, parénquima homogéneo, bordes lancelados, cápsula hiperecogénica lisa, en corte longitudinal sobre el hilio esplénico se mide tamaño en ancho _.__ mm.
-
-PANCREAS: no evaluado.
-
-ESTOMAGO: Con pared de grosor aumentado en fundus gástrico _.__ mm, peristaltismo normal, estratificación diferenciada y aumentada en mucosa, no evidencia de contenido alimenticio en esta área.
-Antro pilórico: contenido ecogénico alimenticio, presencia de gas, peristaltismo normal y píloro estrecho.
-
-
-INTESTINO DELGADO: Patrón de contenido fluido alimenticio duodenal en normomotilidad, sin cambios aparentes para yeyuno e íleon, estratificación conservada, pared de grosor normal, peristaltismo normal.
-
-INTESTINO GRUESO: Contenido gaseoso, en colon descendente y estratificación conservada.
-
-VEJIGA URINARIA: Ubicación anatómica normal en hipogastrio, con moderado contenido anecoico puro, de forma ovoide en corte longitudinal, contorno regular en pared mucosa conservada monolaminar y serosa hiperecogénica.
-
-LINFONODULOS: No se observaron linfonodos reactivos durante el estudio ecográfico.
-
-CONCLUSIONES: sin cambios patológicos abdominales presentes en el ultrasonido realizado, se sugiere realizar un control en __ días para evaluar grosor de paredes estomacales en fundus y cuerpo gástrico. 
-
-Se localiza útero con contenido de fetos en ambos cuernos uterinos, el más caudal del izquierdo tiene feto presentación anterior o cefálica y el derecho con presentación posterior o pélvica.
-
-Se observan _ fetos totales de gestación de los cuales: _ en cuerno uterino izquierdo con fetocardia positiva, movimientos fetales fisiológicos, contenido anecoico de sacos gestacionales y _ feto en cuerno uterino derecho con fetocardia positiva. Formación de fetos que evidencian vejiga, estomago, tórax, esqueleto apendicular y corazón con medición Doppler de frecuencia cardiaca ___ lpm, medición céfalo pélvica de __.__mm y medida toraco pélvica __.__ mm. 
-
-Diámetros biparietales proporcionan edad aproximada de _ semanas, _ día y fecha de parto aproximada del __ al __ de febrero ____ (la fecha es un estimado aproximado que puede variar por estrés, condiciones medio ambientales y fisiológicas individuales, no siempre es exacto y se recomienda realizar seguimiento ecográfico hasta obtener identificación de asas intestinales fetales con movimientos peristálticos en la mayoría fetal)
-
-Nota: la ecografía es una prueba dinámica donde los cachorros están en movimiento en un abdomen cilíndrico donde puede variar el número de cachorros a la primera impresión, en algunas ocasiones un feto puede ser contado dos veces o alguno se puede esconder al ultrasonido por los órganos abdominales, para determinar confiabilidad en el número de cachorros  se recomienda repetir ecografía en __ días y realizar radiografía ventro dorsal para así determinar el número exacto de cachorros y su posicionamiento previo al parto.
-MOTIVO DEL ESTUDIO ECOGRAFICO: SE HACE EXPLORACION ABDOMINAL PARA CONTROL DE PREÑEZ
-
-VEJIGA URINARIA: SE LOCALIZA LA VEJIGA EN REGION CAUDAL DEL ABDOMEN PARA UTILIZAR ESTA COMO VENTANA ACUSTICA
-
-UTERO: SE LOCALIZA EL UTERO EL CUAL ESTA CON CONTENIDO DE FETOS. TODOS PRESENTAN FETOCARDIA POSITIVA EN FRECUENCIAS  ADECUADAS. TODAS ESTAN POR ENCIMA DE ### LPM. SE HACEN MEDICIONES DE DIAMETRO BIPARIETAL A VARIOS FETOS. DONDE SE CALCULA LA EDAD GESTACIONAL EN  ## DIAS DIAS APROX.. TODOS LOS FETOS PRESENTAN UN DESARROLLO GESTACIONAL DEACUERDO A LA EDAD CALCULADA.. NO SE APRECIAN ANORMALIDADES VISIBLES EN ELLOS ,
-
-UNO DE LOS FETOS TIENE PROBLEMAS
-
-
-
-OTROS: DIAGNOSTICO PREÑEZ __ DIAS .
-
-SE  ANEXA VIDEO CON APARTES DE LA EXPLORACION ."
