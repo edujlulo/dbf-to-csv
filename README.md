@@ -20,5 +20,3 @@ This project allows you to convert legacy DBF files (dBase/FoxPro) into modern C
 ```bash
 python convert_dbf_to_csv.py
 ```
-
-H
