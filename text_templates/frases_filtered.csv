@@ -1,0 +1,722 @@
+CAMPO,FRASE
+MOTIVOS,Posible Cuerpo Extraño a Nivel Intestinal
+VESICULA BILIAR,Distención moderada
+VESICULA BILIAR,Contenido anecoico normal
+VESICULA BILIAR,Pared conservada
+RIÑON DERECHO,Conserva buena relación y diferenciación corticomedular
+BAZO,Eplenometria alcanzando un espesor de hasta __ mm
+MOTIVOS,Posibles Parásitos
+HIGADO,Higado Graso
+ESPECIES,Canino
+ESPECIES,Felino
+ESPECIES,Equino
+PERRO,PITBULL
+PERRO,DOBERMAN
+GATO,SIAMES
+GATO,ANGORA
+PERRO,PEQUINES
+PERRO,TOY
+PAIS,CHILE
+PAIS,VENEZUELA
+CHILE,CALAMA
+CHILE,ANTOFAGASTA
+CHILE,SANTIAGO
+VENEZUELA,CARACAS
+MEDICAMENTO,SIN MEDICAMENTO
+ENFERMEDAD,SIN ENFERMEDAD
+SEXO,MACHO  ENTERO
+SEXO,HEMBRA
+RAZAS,PITBULL
+MEDICAMENTO,PROZAC
+ENFERMEDAD,HIPERTENSO
+SEXO,MACHO CASTRADO
+PANCREAS,Tamaño normal
+HIGADO,Hepatomegalia
+HIGADO,"Ecogenicidad conservada, bordes finos, triangulares sin exceder el límite anatómico normal del estomago ni del riñón derecho"
+HIGADO,Ecogenicidad reducida
+HIGADO,"Ecogenicidad reducida, con aumento del contraste de los vasos sanguíneos"
+HIGADO,Ecogenicidad aumentada
+HIGADO,"Ecogenicidad aumentada, con aumento de la atenuación distal"
+HIGADO,Ecogenicidad mixta
+HIGADO,"Eco estructura conservada, ecogenicidad y tamaño conservados"
+HIGADO,Se observan vasos congestivos
+HIGADO,Se observan conductos biliares dilatados
+HIGADO,Se observa signo de doble cañón
+HIGADO,Se observa comunicación venosa patológica (Shunt)
+MOTIVOS,Examen completo abdominal
+CAVIDAD ABDOMINAL,No se observa líquido libre en abdomen
+CAVIDAD ABDOMINAL,Se observa colecta abdominal anecoica pura
+CAVIDAD ABDOMINAL,Se observa colecta abdominal con focos ecogénicos en suspensión compatible peritonitis infecciosa felina
+CAVIDAD ABDOMINAL,Se observa peritoneo reactivo
+CAVIDAD ABDOMINAL,Se observa peritonitis
+BAZO,"Tamaño normal  parénquima ecogénico, homogéneo y con textura fina. Cápsula hiperecogénica, lisa"
+BAZO,Esplenomegalia
+BAZO,Parénquima hipoecoico
+BAZO,Parénquima hiperecoico
+BAZO,Heterogéneo
+BAZO,Textura gruesa
+BAZO,Bordes lancelados
+BAZO,Borde redondeado
+BAZO,Plegado sobre sí mismo
+BAZO,Contorno irregular
+BAZO,Patrón de encaje o de cielo estrellado
+INTESTINO GRUESO,Vacío.
+INTESTINO GRUESO,Distensión leve
+INTESTINO GRUESO,Distensión moderada
+INTESTINO GRUESO,Sobredistensión localizada.
+INTESTINO GRUESO,Sobredistensión generalizada.
+INTESTINO GRUESO,"Contenido gaseoso, en colon descendente"
+INTESTINO GRUESO,Contenido mucoso
+INTESTINO GRUESO,Contenido líquido
+INTESTINO GRUESO,Contenido líquido con focos ecogénicos en suspensión.
+INTESTINO GRUESO,Contenido heces.
+INTESTINO GRUESO,Estratificación conservada.
+INTESTINO GRUESO,Estratificación menos evidenciable.
+INTESTINO GRUESO,Pérdida total de la estratificación localizada.
+INTESTINO GRUESO,Perdida total de la estratificación generalizada.
+INTESTINO GRUESO,Pared de grosor normal
+INTESTINO GRUESO,Pared engrosada focalmente.
+INTESTINO GRUESO,Pared engrosada.
+INTESTINO GRUESO,Estrato mucoso engrosado.
+INTESTINO GRUESO,Estrato muscular engrosado.
+INTESTINO GRUESO,"Se observa imagen hiperecogénica con sombra acústica, sugerente de cuerpo extraño o fecaloma."
+INTESTINO GRUESO,Peristaltismo aumentado.
+INTESTINO GRUESO,Se observa signo de obstrucción.
+GLANDULAS ADRENALES,De características ultrasonográficas conservadas.
+PANCREAS,De características ultrasonográficas conservadas.
+PANCREAS,Tamaño aumentado
+PANCREAS,Ecogenicidad reducida
+PANCREAS,Ecotextura heterogénea
+PANCREAS,Se observa quiste
+PANCREAS,Se observa imágenes pseudoquística
+PANCREAS,Se observa el conducto pancreático dilatado
+ESTOMAGO,Vacío
+ESTOMAGO,Distensión leve
+ESTOMAGO,Distensión moderada
+ESTOMAGO,Sobredistensión
+ESTOMAGO,Contenido gaseoso
+ESTOMAGO,No evaluable.
+ESTOMAGO,Contenido alimenticio
+ESTOMAGO,Contenido mucoso
+ESTOMAGO,Contenido líquido
+ESTOMAGO,Contenido líquido con focos ecogénicos en suspensión
+ESTOMAGO,Estratificación conservada
+ESTOMAGO,Estratificación menos evidenciable
+ESTOMAGO,Pérdida total de la estratificación
+ESTOMAGO,Pseudoestratificación
+ESTOMAGO,Pared de grosor normal
+ESTOMAGO,Pared engrosada
+ESTOMAGO,Estrato muscular engrosado
+ESTOMAGO,Estrato submucoso engrosado
+ESTOMAGO,Estrato mucoso engrosado
+ESTOMAGO,Se observa lesión excavada sugerente de úlcera gástrica.
+ESTOMAGO,"Se observa imagen hiperecogénica con sombra acústica posterior, sugerente de cuerpo extraño."
+ESTOMAGO,Peristaltismo normal
+ESTOMAGO,Peristaltismo aumentado
+ESTOMAGO,Peristaltismo disminuido
+ESTOMAGO,"Peristaltismo ausente, ileo"
+VESICULA BILIAR,Distención leve
+VESICULA BILIAR,Distención moderada (normal)
+VESICULA BILIAR,"Sobre distendida,"
+VESICULA BILIAR,Forma de saco (normal)
+VESICULA BILIAR,"Pared ecogénica, íntegra, lisa, de espesor normal"
+VESICULA BILIAR,Pared con ecogenicidad aumentada
+VESICULA BILIAR,Signo de doble pared vesicular colecistitis
+VESICULA BILIAR,Espesor normal
+VESICULA BILIAR,Espesor engrosado
+VESICULA BILIAR,"Se observa una imagen nodular en la pared, en la zona del (ápex - cuerpo - cuello)"
+VESICULA BILIAR,Se observa imagen sugerente de ruptura vesicular
+VESICULA BILIAR,Superficie interna regular
+VESICULA BILIAR,"Superficie interna irregular,"
+VESICULA BILIAR,Contenido anecoico homogéneo (normal)
+VESICULA BILIAR,Contenido ecogénico homogéneo móvil (sedimento)
+VESICULA BILIAR,"Se observa en su interior una imagen hiperecoica móvil, con sombra acústica posterior ,"
+VESICULA BILIAR,"Se observa patrón estrellado, sugerente de Mucocele"
+VESICULA BILIAR,Se observa conducto Cístico dilatado
+VESICULA BILIAR,Se observa conducto Colédoco dilatado
+VESICULA BILIAR,Pared del conducto colédoco engrosada
+VESICULA BILIAR,Se observa imagen nodular sugerente de pólipo
+VESICULA BILIAR,Se observa imagen nodular sugerente de neoplasia
+VESICULA BILIAR,Se observa imagen nodular sugerente de hiperplasia de las glándulas mucinosas
+RIÑON IZQUIERDO,Conserva buena relación y diferenciación corticomedular
+RIÑON IZQUIERDO,Diferenciación corticomedular reducida
+RIÑON IZQUIERDO,No se observa diferenciación corticomedular
+RIÑON IZQUIERDO,Se observa pielectasia
+RIÑON IZQUIERDO,Pelvis distendida
+RIÑON IZQUIERDO,"Capsula de superficie lisa, regular y ecogénica"
+RIÑON IZQUIERDO,Superficie irregular
+RIÑON DERECHO,"Diferenciación corticomedular reducida,"
+RIÑON DERECHO,No se observa diferenciación corticomedular
+RIÑON DERECHO,Se observa pielectasia
+RIÑON DERECHO,Pelvis distendida
+RIÑON DERECHO,"Superficie lisa, regular y ecogénica"
+RIÑON DERECHO,Superficie irregular
+RIÑON DERECHO,Con la misma descripción ecográfica del riñón contralateral
+INTESTINO DELGADO,Vacío.
+INTESTINO DELGADO,Distensión leve
+INTESTINO DELGADO,Distensión moderada
+INTESTINO DELGADO,Sobredistensión localizada
+INTESTINO DELGADO,Sobredistensión generalizada
+INTESTINO DELGADO,Contenido gaseoso
+INTESTINO DELGADO,Contenido mucoso
+INTESTINO DELGADO,Contenido líquido intraluminal
+INTESTINO DELGADO,Contenido líquido con focos ecogénicos en suspensión.
+INTESTINO DELGADO,Estratificación conservada
+INTESTINO DELGADO,Estratificación menos evidenciable
+INTESTINO DELGADO,Pérdida total de la estratificación localizada.
+INTESTINO DELGADO,Perdida total de la estratificación generalizada
+INTESTINO DELGADO,Pared de grosor normal
+INTESTINO DELGADO,Pared engrosada focalmente
+INTESTINO DELGADO,Pared engrosada
+INTESTINO DELGADO,Estrato muscular engrosado
+INTESTINO DELGADO,Estrato submucoso engrosado
+INTESTINO DELGADO,Estrato mucoso engrosado
+INTESTINO DELGADO,"Se observa imagen hiperecogénica con sombra acústica posterior, sugerente de cuerpo extraño."
+INTESTINO DELGADO,Peristaltismo normal
+INTESTINO DELGADO,Peristaltismo aumentado
+INTESTINO DELGADO,Peristaltismo disminuido
+INTESTINO DELGADO,"Peristaltismo ausente, ileo"
+INTESTINO DELGADO,Se observa signo de obstrucción
+INTESTINO DELGADO,Se observa signo de intestino corrugado
+INTESTINO DELGADO,"Se observan multiples capas concéntrica, sugerente de intususcepción"
+VEJIGA,"Escaso contenido, no evaluable."
+VEJIGA,Distensión moderada.
+VEJIGA,Sobredistendida.
+VEJIGA,Contenido anecoico puro.
+VEJIGA,"Contenido anecoico, con sedimento celular."
+VEJIGA,"Contenido anecoico, con sedimento mineralizado."
+VEJIGA,"Se observa estructura hiperecogénica con sombra posterior, sugerente de Cálculo."
+VEJIGA,Pared conservada.
+VEJIGA,Pared con aumento del espesor generalizado.
+VEJIGA,"Pared con aumento del espesor localizado, en"
+VEJIGA,Se observa formaicónpolipoide.
+LINFONODOS,Ecográficamente conservados.
+LINFONODOS,No se observaron linfonódulos reactivos durante este estudio.
+LINFONODOS,Se observan linfonódulos reactivos.
+LINFONODOS,Ecogenicidad reducida.
+LINFONODOS,Forma redondeada.
+PROSTATA,De características ecográficas conservadas
+PROSTATA,Se observa colecta interna
+PROSTATA,"Bilobulada, simétrica, de textura fina a media, ecogénica"
+PROSTATA,Hemisferios prostaticos evidencian asimetría
+PROSTATA,Homogéneo
+PROSTATA,Heterogéneo
+PROSTATA,Se observa lesión quística
+PROSTATA,Tamaño normal
+PROSTATA,Prostatomegalia.
+TESTICULOS,"Tamaño normal Ovoide, ecogénico, de textura fina homogénea, atravesado por una línea hiperecogénica del mediastino testicular"
+TESTICULOS,Tamaño aumentado
+TESTICULOS,Tamaño reducido
+PAIS,COLOMBIA
+COLOMBIA,CALI VALLE
+RAZAS,YORK SHIRE TERRIER
+SEXO,Hembra castrada
+RAZAS,SHIH TZU
+RAZAS,PUG
+RAZAS,BEAGLE
+RAZAS,PERSA
+RAZAS,JACK RUSSEL TERRIER
+RAZAS,BULLDOG
+RAZAS,POODLE
+RAZAS,SCHNAUZER
+RAZAS,CRIOLLO
+RAZAS,BULL TERRIER
+ENFERMEDAD,DIAGNOSTICO DE HEMANGIOSARCOMA
+RAZAS,LABRADOR
+RAZAS,PINSCHER
+ENFERMEDAD,INSUFICIENCIA RENAL
+ENFERMEDAD,DEMODECOSIS GENERALIZADA
+ENFERMEDAD,TUMOR EN ANO
+ENFERMEDAD,AUMENTODE TAMAÑO DE ABDOMEN
+ENFERMEDAD,ICTERICIA
+ENFERMEDAD,DISURIA Y HEMATURIA
+ENFERMEDAD,ASCITIS
+ENFERMEDAD,Vomito con sangre
+ENFERMEDAD,PACIENTE QUE PRESENTA CELO POSTERIOR A OVH
+ENFERMEDAD,DIFCULTAD EN LA MICCION
+RAZAS,POINTER ALEMAN
+RAZAS,TECKEL
+ENFERMEDAD,EPILEPSIA
+ENFERMEDAD,MENINGITIS Y ESPONDILOARTROSIS
+RAZAS,COCKER
+RAZAS,CHIHUAHUA
+RAZAS,PASTOR ALEMAN
+RIÑON IZQUIERDO,Tamaño y ubicación anatómica normal
+RAZAS,POMERANIA
+RAZAS,GOLDEN RETRIVER
+RAZAS,BASSET HOUND
+ENFERMEDAD,TRASTORNOS URINARIOS
+ENFERMEDAD,PUENTES PORTO SISTEMICOS
+ENFERMEDAD,IRC
+ENFERMEDAD,DIAGNOSTICO DE PREÑEZ
+ENFERMEDAD,CALCULOS EN VEJIGA
+ENFERMEDAD,HEMANGIOSARCOMA
+RIÑON DERECHO,"Arteria y vena renal normal, vasos arcuados normales, al doppler color se observa normalidad"
+RIÑON IZQUIERDO,"Arteria y vena renal normal, vasos arcuados normales"
+RIÑON IZQUIERDO,Doppler color normal.
+GRANDES VASOS,Normales.
+ENFERMEDAD,CONTROL POSQUIRURGICO
+RAZAS,ROTTWEILER
+ENFERMEDAD,LEUCOPENIA
+ENFERMEDAD,CONTROL POST QUIRURGICO
+RAZAS,Boxer
+RAZAS,PASTOR COLLIE
+ENFERMEDAD,DESCARTAR PREÑEZ
+ENFERMEDAD,DISTENSION ABDOMINAL
+RAZAS,BOXER
+ENFERMEDAD,DESCARTAR REMANENTE OVARICO
+ENFERMEDAD,MASA EN ABDOMEN CAUDAL
+MOTIVOS,"Diagnóstico de preñez, tiempo gestación"
+RAZAS,SHAR PEI
+ENFERMEDAD,POSIBLE CUERPO EXTRAÑO INTESTINAL
+RAZAS,DOGO DE BURDEOS
+ENFERMEDAD,TUMOR EN CUELLO
+ENFERMEDAD,Vomito
+ENFERMEDAD,CONVULSIONES
+RAZAS,SIBERIAN HUSKY
+RAZAS,CANINO
+UTERO,Ventral  a la vejiga se localiza el útero este se encuentra con contenido de fetos
+UTERO,"Todos los fetos presentan fetocardia positiva,"
+UTERO,"Se hace medición de los sacos gestacionales,"
+UTERO,"Todos los fetos presentan un desarrollo adecuado para la edad calculada,"
+RAZAS,BOSTON TERRIER
+VEJIGA URINARIA,Paredes con aumento de grosor e irregularidad en sus bordes de mucosa
+HIGADO,"Bordes finos, triangulares sin exceder el límite anatómico normal del estómago ni del riñón derecho"
+HIGADO,"Bordes redondeados, aumentados de tamaño, excediendo  su límite con relación al estómago"
+RAZAS,FELINO
+RAZAS,BULLDOG FRANCES
+RAZAS,TECKEL
+HIGADO,"Hiperecogenicidad, hepatopatía esteroidal, Lipidosis, hepatopatías vacuolares, hepatitis crónica,"
+HIGADO,"Hiperecogenicidad, fibrosis, cirrosis, linfoma, tumor de mastocitos."
+HIGADO,"Hipoecogenicidad, congestión pasiva, hepatitis aguda, colangiohepatitis, Linfoma, Leucemia,"
+HIGADO,"Ecogenicidad mixta, presuntivo fibrosis hepática, Carcinoma Hepatocelular, Metástasis, Necrosis, Amiloidosis o  Linfoma por confirmar"
+HIGADO,"Ecogenicidad mixta, presuntiva hepatopatía esteroidea asociada a hiperplasia, Linfoma, Hepatitis por confirmar"
+HIGADO,"Hepatomegalia difusa, presuntiva hepatopatía esteroidal, Lipidosis, hepatitis, colangiohepatitis,"
+HIGADO,"Hepatomegalia difusa, presuntiva Neoplasia de células Redondas, linfoma, histiocitosis, mastocitos,"
+HIGADO,"Hepatomegalia difusa, presuntivo Carcinoma Masivo Hepatocelular, Metástasis, Amiloidoisis"
+HIGADO,"Hepatomegalia focal o asimétrica, presuntiva Neoplasia primaria o Metástasis, absceso, quiste, o granuloma,"
+HIGADO,"Hepatomegalia focal o asimétrica, trombosis, torsión lobular, hematoma,"
+HIGADO,"Hígado pequeño, Shunt porto sistémico, displasia micro vascular o hipoplasia  de vena porta,"
+HIGADO,"Hígado pequeño, presuntiva cirrosis, fibrosis, hipovolemia severa,"
+HIGADO,"Lesiones focales Anecoicas compatibles con quistes, tumor quístico, necrosis, absceso y/o hematoma,"
+HIGADO,"Lesiones focales Hipoecoicas compatibles con hiperplasia nodular, metástasis, linfoma, neoplasia hepática,"
+HIGADO,"Lesiones focales hipoecoicas, absceso, necrosis, hematoma, complejo quístico,"
+HIGADO,"Lesiones focales de ecogenicidad mixta, presuntiva hiperplasia nodular, neoplasia primaria, metástasis,"
+HIGADO,"Lesiones focales de ecogenicidad mixta, presuntivos abscesos y/o hematomas"
+HIGADO,Con  posición en decúbito dorsal  izquierdo y derecho  se hace aproximación al hígado
+HIGADO,Los lóbulos del lado izquierdo  conforman un tercio de la masa hepática
+HIGADO,El lóbulo cuadrado es relativamente central y rodea parcialmente la vesícula biliar
+HIGADO,"Los lóbulos izquierdos son el lateral, medial y cuadrado"
+HIGADO,"Los lóbulos derechos son lateral, medial y caudado, hacia el centro tenemos el  proceso papilar"
+HIGADO,Los cuales conforman la totalidad de la masa del hígado
+HIGADO,El ligamento falciforme esta en el campo cercano y se observa
+HIGADO,Isoecoico en relación al hígado
+HIGADO,Hiperecoica en relación al hígado y presenta una gruesa ecotextura
+HIGADO,"Hígado hiperecoico en relación a la grasa falciforme por la obesidad del gato,"
+HIGADO,Parénquima hepático normal es uniformemente hipoecoico con una ecotextura gruesa comparada con el
+HIGADO,En la sección transversa del hígado los vasos aparecen como estructuras redondeadas anecoicas
+HIGADO,En la sección trasversa del hígado se reconocen las ramas portales con límites hiperecoicos
+HIGADO,"Lesiones focales hiperecoicas , mineralizacion , colelitiasis , grasa , mielolipoma , gas, hiperplas"
+HIGADO,"Lesiones focales hiperecoicas, presuntiva hiperplasia nodular, neoplasia primaria, absceso o granuloma                 ,"
+RAZAS,PERRO DE AGUA ESPAÑOL
+LINFONODOS,"El paciente presenta linfodenopatia periférica,"
+RAZAS,SIAMES
+RAZAS,CANICHE
+MOTIVOS,Ecografía abdominal por distención y/o dolor
+PANCREAS,No evaluable
+INTESTINO DELGADO,Con contenido intraluminal con focos ecogénicos en suspensión.
+VEJIGA URINARIA,Con leve contenido anecoico
+VEJIGA URINARIA,"No se aprecian masas, ni urolitos, ni estructuras vegetativas"
+HIGADO,En lóbulo lateral izquierdo presenta
+HIGADO,"Los demás lóbulos hepáticos conservan bordes redondeados, levemente aumentados de tamaño, excediendo sus límites."
+BAZO,"Tamaño fisiológico, posición normal en su proporción abdominal izquierda,  ecotextura de morfología uniforme, parénquima homogéneo, bordes lancelados, cápsula hiperecogénica lisa"
+OTROS,"NOTA. *La ecografía es un método diagnostico complementario que no determina función, ni tipo  de celular de los organos afectados,"
+RIÑON IZQUIERDO,Conserva buena diferenciación corticomedular
+VESICULA BILIAR,"Con leve lodo biliar en proporción menor al 20%, Superficie interna regular lisa."
+VEJIGA URINARIA,Se aprecia una estructura hiperecoica redondeada con cuello pedunculada sin sobra acústica sugerente de pólipo o coagulo reciente.
+VEJIGA URINARIA,Con leve contenido anecoico urinario seguido de focos en suspensión hiperecoicos sin sombra acústica
+GLANDULAS ADRENALES,"GL Izquierda,  tamaño y forma bilobulada conservada"
+GLANDULAS ADRENALES,"GL derecha, tamaño triangular o en delta"
+GLANDULAS ADRENALES,"Longitud 16.12mm, polo craneal 5.41mm de ancho y caudal 4.27mm"
+CONCLUSIONES,"Por las alteraciones en sistema urinario se recomienda realizar Exámenes complementarios según criterio médico tratante (Hemograma, creatinina, fosforo, BUN, Urianalisis con urocultivo) y repetir"
+OTROS,"Frecuencia cardiaca en Aorta Abdominal durante el examen ecográfico___ lpm, por medición doppler."
+OTROS,"En la exploración ecográfica se observan las pleuras parietal y visceral normales, con deslizamiento positivo, no se evidencia derrame pleural, no presenta signo nodular"
+OTROS,Hemitorax Derecho e Izquierdo
+OTROS,"No se evidencia bronco-grama, presenta aproximadamente __ ondas B por espacio intercostal en patrón de abanico"
+OTROS,"Se lleva a cabo un rastreo A-FAST, T-FAST"
+CAVIDAD ABDOMINAL,"No se observa liquido libre en ninguno de sus 4 cuadrantes abdominales Cisto Cólico CC, esplenorenal SR , Hepato Diafragmático HD y Hepatorenal HR."
+CAVIDAD ABDOMINAL,Cuadrante Cisto Cólico CC
+CAVIDAD ABDOMINAL,Cuadrante Esplenorenal SR
+CAVIDAD ABDOMINAL,Cuadrante Hepato Diafragmático HD
+CAVIDAD ABDOMINAL,Cuadrante Hepatorenal HR
+CAVIDAD ABDOMINAL,Masa abdominal sin organodependencia definida
+OTROS,NOTA. * * el diagnóstico ecográfico debe ser interpretado por el médico solicitante deacuerdo a la clinica y sus paraclinicos.
+UTERO,Nota: la ecografía es una prueba dinámica donde los cachorros están en movimiento en un abdomen cilíndrico donde puede variar el número de cachorros a la primera impresión
+UTERO,"Nota:* en algunas ocasiones un feto puede ser contado dos veces o alguno se puede esconder al ultrasonido por los órganos abdominales, para determinar confiabilidad en el número de cachorros  se"
+UTERO,Nota:** recomienda realizar ecografía de control con Radiografía LL o VD para determinar el número exacto de cachorros y su posicionamiento previo al parto.
+UTERO,Útero izquierdo un cachorro en
+UTERO,Útero derecho un cachorro en
+UTERO,"Presentación  posterior o pélvica ,"
+UTERO,"Presentación   anterior o cefálica,"
+UTERO,LATIDO FETAL:  Mayor a 200 lpm normal
+UTERO,LATIDO FETAL:  De 180 a 200 lpm estrés de Parto
+UTERO,LATIDO FETAL:  De 160 a 180 lpm estrés fetal en riesgo
+UTERO,LATIDO FETAL:  De 140 a 160 lpm sufrimiento de parto
+UTERO,Movimiento peristáltico intestinal fetal  que corrobora edad gestacional mayor a 60 días.
+UTERO,"Con diámetro biparietal de ____ para una edad gestacional aproximada de __ semanas y __ días, para una fecha probable de parto aproximada del ________"
+PROSTATA,Posición hipogastrio medio  caudal al trigono vesical
+PROSTATA,"Ecogenicidad granular mixta en corte transversal, hiperecoica en distribución de tejido ductal y tejido conectivo glandular hipoecoico normal (patrón mariposa)"
+PROSTATA,Quistes
+PROSTATA,Compatibilidad con Hiperplasia
+PROSTATA,Compatibilidad con  Hipoplasia
+PROSTATA,Compatibilidad con  Adenomas
+PROSTATA,Hemisferios prostaticos evidencian adecuada simetría
+MOTIVOS,Presentación de vómitos
+MOTIVOS,Presentación de flujo vaginal
+MOTIVOS,Presentación de polidipsia y poliuria
+MOTIVOS,Traumatismo abdominal por choque vehicular
+MOTIVOS,Traumatismo abdominal por caída
+MOTIVOS,Presentación de diarrea
+MOTIVOS,Posible masa abdominal
+MOTIVOS,"Alteración analítica en sus exámenes de laboratorio Hemograma, Urianalisis y/o química sanguínea"
+MOTIVOS,"Alteración en sistema urinario (FLUDT, hematuria, estranguria, oliguria, Urolitiasis)"
+MOTIVOS,Convulsiones
+MOTIVOS,Problemas endocrinos
+MOTIVOS,Examen anual geriátrico
+MOTIVOS,Traumatismo torácico
+RIÑON IZQUIERDO,Relación Riñón Aorta
+RIÑON DERECHO,Alteración en relación cortical disminuida y medular aumentada sugerente de hidronefrosis
+RIÑON DERECHO,Tamaño y ubicación anatómica normal alojado en la fosa renal del lóbulo caudado  hepático
+VEJIGA URINARIA,Aumentada de tamaño con contenido anecoico
+VEJIGA URINARIA,Con abundante sedimento urinario
+VEJIGA URINARIA,"Presenta inflamación en pared vesical
+"
+VEJIGA URINARIA,No evidencia líquido libre en el cuadrante cistocolico
+URETRA,Presenta dilatación de la uretra
+UTERO,"Paredes con engrosamiento mayor a un cm de diámetro,"
+UTERO,Sugerente de Piometra o Hiperplasia endometrial
+UTERO,"Sugerente de mucometra, hidrómetra, Hemómetra"
+UTERO,Colecta uterina interna con focos hiperecoicos en formas anulares
+OVARIOS,Forma ovalada o redondeada de ecotextura hipoecoica
+OVARIOS,Con presentación anecoica redondeada en su interior de presuntivo quiste o folículo de graff
+OVARIOS,Quiste con reforzamiento posterior
+GLANDULA MAMARIA,Presenta una estructura de ecotextura mixta glandular
+GLANDULA MAMARIA,"Con focos hiperecoicos, hipoecoicos y anecoicos desproporcionados"
+GLANDULA MAMARIA,En glandula mamaria izquierda
+GLANDULA MAMARIA,En glandula mamaria derecha
+GLANDULA MAMARIA,Tocacica craneal
+GLANDULA MAMARIA,Toracica caudal
+GLANDULA MAMARIA,Abdominal craneal
+GLANDULA MAMARIA,Abdominal caudal
+GLANDULA MAMARIA,Inguinal
+GLANDULA MAMARIA,"Lesiones focales Hipoecoicas compatibles con hiperplasia nodular, lipoma,  metástasis, carcinoma, adenoma, sarcoma, fibroadenoma"
+GLANDULA MAMARIA,Masa de ecogenicidad aumentada con bordes irregulares
+GLANDULA MAMARIA,Múltiples estructuras de ecogenicidad aumentada con bordes irregulares
+GLANDULA MAMARIA,Se sugiere realizar exéresis quirúrgica de la masa de glandula mamaria con estudio de histopatologia para descartar malignidad.
+RIÑON IZQUIERDO,Con alteración en relación cortical disminuida y medular aumentada sugerente de hidronefrosis
+INTESTINO GRUESO,No evaluable
+GLANDULAS ADRENALES,No se observaron adrenales reactivas durante este estudio.
+TESTICULOS,"Parenquima irregular de ecotextura mixta anecoica, hipoecoida e hiperceogenicidad desproporcionada"
+TESTICULOS,Gónada izquierda presenta
+TESTICULOS,Gónada derecha presenta
+TESTICULOS,"Compatible con Seminoma, tumor de células Leydig, tumor de celulas de Sertoli (TCS o sertolinoma)"
+TESTICULOS,Paciente es criptórquido unilateral derecho
+TESTICULOS,Paciente es criptórquido unilateral izquierdo
+TESTICULOS,En posición normal en su bolsa escrotal
+TESTICULOS,Posición anatómica anormal intra abdominal
+TESTICULOS,Posición anatómica anormal extra abdominal
+TESTICULOS,Se sugiere realizar orquiectomia con estudio de histopatología para descartar malignidad.
+TESTICULOS,"Ambos conservan tamaño normal ovoide, ecogénico, de textura fina homogénea, atravesado por una línea hiperecogénica del raffe central"
+PROSTATA,"Simetria de lobulos, parenquima homogeneo y econormal"
+PROSTATA,Contorno irregular y contenido ligeramente hipoecoico sugerente de absceso prostatico
+PROSTATA,Corte longitudinal mide ___ mm   largo
+PROSTATA,Corte transversal mide ___ mm ancho y ___ mm alto
+PROSTATA,Considerablemente hipoecoico con relacion a la grasa periprostática
+PROSTATA,"Uretra aparece como una pequeña porcion ecolúcida en el centro de la glandula, con una  estrecha banda de tejido hiperecoico adyacente."
+PROSTATA,"Posición localizada en la cavidad pélvica,  alrededor del cuello vesical"
+PROSTATA,Márgenes lisos y continuos
+PROSTATA,Relativamente hiperecoica
+PROSTATA,Relativa hipogenicidad difusa
+PROSTATA,La tabicación y la ecogenicidad del liquido son mas sugestivos de absceso que de quiste
+TESTICULOS,Epidídimo hipoecoico con relación al parénquima testicular
+TESTICULOS,"Signos de orquitis por agrandamiento testicular, con parénquima de textura moteada e hipoecoica"
+TESTICULOS,"Signos de epididimitis por agrandamiento testicular, con parenquima homogéneo, liquido anecoico periférico  en epidídimo"
+TESTICULOS,Se sugiere realizar prueba específica de Brucella Canis
+RAZAS,DPC
+VEJIGA URINARIA,Con leve sedimento urinario
+MOTIVOS,Criptorquidia
+HIGADO,"Los demás lóbulos hepáticos conservan bordes finos, sin exceder  sus límites"
+VESICULA BILIAR,Con moderado contenido ecogénico de lodo biliar en proporción cercana al 50% de su interior
+VESICULA BILIAR,Contenido mixto anecoico y ecogénico móvil
+RIÑON IZQUIERDO,Se observa signo del anillo medular
+RIÑON DERECHO,Se observa signo del anillo medular hiperecogenico (normal para algunas razas pequeñas)
+CONCLUSIONES,Realizar ecografía en 20 días posteriores al tratamiento para valorar evolución de _____ y cada 6 meses para monitoreo de ___
+BAZO,Estructura hipoecoica focal en cuerpo esplenico de _ mm diametro
+ESTOMAGO,Peristaltismo disminuido con retraso en vaciamiento gástrico
+OTROS,Relacion Aorta Auricula Izquierda en diastole 1.05 normal
+OTROS,Hemitorax Derecho ventana intercostal lateral entre cuarta y sexta costilla se observa silueta hepática colateral al corazón por presuntiva hernia peritoneo pericárdica diafragmática.
+RIÑON IZQUIERDO,En corte longitudinal se mide tamaño en ancho ___mm y largo ___  mm con corteza renal de __mm
+RIÑON DERECHO,"En corte longitudinal se mide tamaño en ancho ___mm y largo ___ mm, con corteza renal de __mm"
+HIGADO,Ligeramente aumentados pero sin exceder el demarcación anatómica normal del estómago ni el riñón derecho
+VEJIGA URINARIA,Evidencia liquido libre con focos ecogenicos de celularidad en el cuadrante cistocolico
+RAZAS,DPL
+ESTOMAGO,"Con pared de grosor normal, peristaltismo normal, estratificación conservada y contenido gaseoso"
+INTESTINO DELGADO,"Con contenido líquido intraluminal, estratificación conservada, pared de grosor normal, peristaltismo normal"
+INTESTINO GRUESO,"Contenido gaseoso, meteorismo."
+VEJIGA URINARIA,"Posición normal con moderado contenido anecoico, paredes conservadas hiperecogénicas"
+MOTIVOS,"Paciente Cardiópata con edema pulmonar alveolar, tuvo recientemente una recaída."
+VESICULA BILIAR,"Contenido anecoico homogéneo (normal), forma de saco, distención moderada, pared ecogénica, íntegra, lisa, de espesor normal"
+RIÑON IZQUIERDO,Pequeñas áreas hiperecoicas medulares sin sombra acústica sugerentes de fibrosis por proceso senil
+RIÑON IZQUIERDO,Pequeñas áreas hiperecoicas medulares con sombra acústica sugerentes de nefrolitiasis  y fibrosis por proceso senil
+RIÑON DERECHO,Pequeñas áreas hiperecoicas medulares con sombra acústica sugerentes de nefrolitiasis  y fibrosis por proceso senil
+RIÑON DERECHO,Pequeñas áreas hiperecoicas medulares sin sombra acústica sugerentes de fibrosis por proceso senil
+GRANDES VASOS,En corazón se mide en diástole relación Aorta Aurícula izquierda (normal hasta 1.5)
+URETRA,En corte longitudinal a nivel prostático mantiene contorno estrecho.
+RIÑON IZQUIERDO,"Tamaño y ubicación anatómica normal, capsula de superficie lisa, regular y ecogénica, conserva buena relación y diferenciación corticomedular"
+PANCREAS,En corte longitudinal se mide tamaño en cuerpo de ancho ___ mm
+SEXO,MACHO
+TESTICULOS,Dimensión en corte sagital ___mm de ancho y ___mm largo
+BAZO,No evaluable
+OTROS,"Frecuencia cardiaca durante el examen ecográfico ___ lpm, por medición doppler en ventrículo izquierdo"
+CONCLUSIONES,Monitoreo hospitalario para dar seguimiento al tránsito estomacal en curso.
+RIÑON DERECHO,Quiste en polo craneal de  __ x __mm de diámetro
+RIÑON DERECHO,Con la misma descripción ecográfica del riñón contralateral presentando alteración corticomedular
+RIÑON IZQUIERDO,Alteración en relación cortical aumentada y medular disminuida sugerente de nefritis intersticial
+RIÑON IZQUIERDO,En cortical presenta pequeñas áreas hiperecoicas difusas sin sombra acústica sugerentes de  fibrosis
+BAZO,Parénquima esplenico de  ecotextura isoecoica comparada con corteza renal
+OVARIOS,Caudal al riñón izquierdo en  fosa ovárica se aprecia una estructura  morulada de múltiples quistes con refuerzo posterior de 8.88mm de ancho y 25.14mm de largo aproximados realizados en corte longitu
+OVARIOS,"Caudal al riñón derecho en  fosa ovárica se aprecias  una estructura  morulada de múltiples quistes con refuerzo posterior y cavitaciones internas, se mide en corte longitudinal 16.27mm de ancho y 36."
+CONCLUSIONES,"Por las alteraciones en sistema reproductor, los quistes y la colecta en muñón uterino se recomienda realizar laparotomía exploratoria"
+UTERO,No evaluable
+RIÑON DERECHO,"No se observa por nerviosismo e intranquilidad en el examen, se recomienda realizar tricotomia para el siguiente examen ecografico"
+URETRA,No evaluada
+TESTICULOS,No evaluado
+PROSTATA,No evaluado
+GLANDULA TIROIDES,No evaluado
+VEJIGA URINARIA,Se aprecian dos estructuras móviles  hiperecoicas con sombra acústica de 2 a 3 mm de diámetro sugerentes de litios vesicales.
+VEJIGA URINARIA,"Con leve contenido urinario se evalúa tamaño de pared vesical craneal __mm, pared ventral ___mm, pared dorsal ___mm"
+SEXO,HEMBRA ENTERA
+MOTIVOS,Con énfasis en sistema genito urinario
+BAZO,Excepto por una estructura hipoecoica focal en cuerpo esplenico de ___mm diametro
+BAZO,Capsula de predomineo lisa excepto por el quiste donde se torna irregular
+BAZO,Tamaño levemente aumentado
+RAZAS,PERSA EXOTICO
+OTROS,Índice de resistencia de
+CONCLUSIONES,"Se recomienda realizar cita de consulta cardiología y panel cardiaco completo Rxs tórax  lateral y DV, Ecocardiografía, Electrocardiograma y medición de presión arterial."
+MOTIVOS,Ecografia abdominal por aborto
+UTERO,"Con aumento del grosor en sus paredes, contenido ecogenico difuso sin movimiento ni focos en suspencion,"
+UTERO,En utero izquierdo se observa una estructura anecoica encapsulada bien definida con aumento de grosor en su pared
+UTERO,"Sugerente de maceracion fetal, retencion placentaria, metritis, loquios post parto"
+CONCLUSIONES,Por la presentacion de aborto considerar riesgo de infeccion zoonotica por Brucella spp
+LINFONODOS,Iliacos mediales
+LINFONODOS,Pancreatico duodenales y yeyunales
+VEJIGA URINARIA,Tanto en decubito dorsal como en cuadripedestacion
+OVARIOS,No se observa ovario derecho
+PROSTATA,Tamaño pequeño atrofiado
+ESTOMAGO,Sugerente de gastritis urémica.
+INTESTINO GRUESO,"Contenido gaseoso, en colon descendente y estratificación conservada."
+CONCLUSIONES,Se sugiere realizar Orquiectomia con estudio de histopatología para descartar malignidad de la gónada  criptórquida.
+UTERO,Ventral  a la vejiga se localiza el útero este se encuentra con
+RIÑON IZQUIERDO,"* la doble ecogenicidad cortical si no es acompañada de hallazgos anormales en su orina o químicas sanguíneas (Glucosa, Cre, BUN, Fosforo, ALT, FA)  podría"
+RIÑON IZQUIERDO,"** considerarse un proceso normal individual en este paciente sin representar enfermedad, se sugiere realizar seguimiento cada 3 meses ecográficos renales."
+RIÑON IZQUIERDO,En cortical presenta una área periférica de ecogenicidad reducida anecoica y un área central cortical hiperecoica  de relación iso ecogénica con respecto al hígado
+CONCLUSIONES,"* la doble ecogenicidad cortical si no es acompañada de hallazgos anormales en su orina o químicas sanguíneas (Glucosa, Cre, BUN, Fosforo, ALT, FA)  podría"
+CONCLUSIONES,"** considerarse un proceso normal individual en este paciente sin representar enfermedad, se sugiere realizar seguimiento cada 3 meses ecográficos renales."
+UTERO,"Sin colecta uterina y sin focos ecogénicos en suspensión, sugerente de diestro,  endometritis o Hiperplasia endometrial"
+UTERO,"En movimiento con amplia cantidad de líquido amniótico, fetos con esqueleto óseo bien definido, órganos abdominales diferenciables como hígado, riñones, vejiga urinaria, estómago y asas intestinales"
+UTERO,Tomando esta última como mejor referencia estimada del parto y probabilidad de ser antes.
+UTERO,Pulmones ecogénicos con relación al parénquima hepático
+RAZAS,DACHSHUND
+RIÑON DERECHO,"Se observa una pequeña área hiperecoica medular con sombra acústica sugerente de mineralización, nefrolitiasis o fibrosis"
+CONCLUSIONES,"Realizar ecografía de control en 6 meses y detallar ambos riñones para descartar mineralización, nefrolitiasis y/o fibrosis medular"
+OVARIOS,No se observaron ovarios durante este estudio.
+OCULAR,Cámara anterior anecoica (normal)
+OCULAR,Capsulas anterior y posterior del cristalino delgado y brillante (normal)
+OCULAR,Humor vítreo anecoico (normal)
+OCULAR,Pared posterior ojo brillante en  línea curva lisa sin estructuras hiperecoicas adyacentes (normal)
+OCULAR,Cornea estructura lineal uniforme y moderadamente ecogénica
+OCULAR,No se observa ninguna estructura brillante dentro de la cámara anterior o el cuerpo vítreo (normal)
+OCULAR,Se observa material graso hiperecoico que rodea el nervio óptico hipoecoico (normal)
+OCULAR,Medición de la vaina del nervio óptico
+OCULAR,Cámara anterior profunda por presuntivo glaucoma y/o buftalmia crónica - aguda
+OCULAR,Material ecogénico en cámara posterior por luxación del cristalino
+OCULAR,Material ecogénico en cámara anterior por luxación del cristalino
+OCULAR,Nódulo hiperecogénico en cámara anterior
+OCULAR,Sinequias anteriores
+OCULAR,Catarata intumescence
+OCULAR,Cristalino ecogénico por presuntiva esclerosis nuclear
+OCULAR,"Estructuras ecogenicas en segmento posterior formando hebras finas, membranas, grumos y/o puntos en el humor vítreo por degeneración vítrea"
+OCULAR,Estructuras ecogenicas en segmento posterior por hemorragia de retina
+OCULAR,Forma anormal del globo ocular por ruptura escleral o corneal
+OCULAR,Forma anormal del globo ocular por encogimiento Tisis o micro oftalmia
+OCULAR,Masa retrobulbar que mella focalmente el globo ocular
+OCULAR,Notorio edema de la cabeza del nervio óptico
+HUESOS,La superficie medial del fémur se muestra como una línea curva hiperecoica brillante
+HUESOS,A nivel de la diáfisis media  se aprecia
+"GRANDES VASOS, VENAS Y ARTERIA",Lumen anecoico alineado horizontal mente de la vena yugular
+"GRANDES VASOS, VENAS Y ARTERIA",Liquido perivascular anecoico superficial a la vena por hematoma
+"GRANDES VASOS, VENAS Y ARTERIA",Liquido perivascular anecoico superficial a la vena por hematoma
+MUSCULAR,Liquido perivascular anecoico superficial a la vena por hematoma
+HUESOS,Se visualiza el hueso____  en su eje corto  y largo observando línea hiperecoica proximal a lo largo de la corteza ósea cuyo curso no evidencia alteraciones
+HUESOS,Se visualiza el hueso____  en su eje corto y largo observando línea hiperecoica proximal a lo largo de la corteza ósea cuyo curso  evidencia alteración en escalón que indicativo de fractura
+HUESOS,Imagen ecogénica compatible con cuerpo extraño
+HUESOS,Perdida de la línea ósea brillante anterior  sugerente de reacción perióstica y/o panosteitis
+HUESOS,Presenta quiste óseo
+HUESOS,Tumefacción de ecogenicidad mixta compatible con absceso
+HUESOS,Presencia de efusión articular
+HUESOS,Imagen en modo B en la cual se distingue una clara interrupción de la continuidad esperada en  línea hiperecoica proximal del periostio
+MUSCULAR,Deformación indiferenciada de los planos musculares o no caracterizada de presentación ecogénica mixta
+MUSCULAR,Evaluación de una tumefacción de tejido blando muscular con proceso inflamatorio anecogénico encapsulado
+MUSCULAR,Perdida de continuidad de la pared muscular por hernia con anillo hiperecogénico
+MUSCULAR,Contenido aéreo en tumefacción de tejido blando
+MUSCULAR,"Presencia de masa infiltrativa muscular con ecogenicidad mixta, estructuras trabeculadas con contenido anecoico"
+OCULAR,Hemorragia vítrea con material ecogénico presente en el segmento posterior
+OCULAR,Desprendimiento de retina por la presencia de una línea irregular hiperecoica que se extiende desde y hacia la pared posterior del ojo
+"TORAX , PULMONES","Perpendicular a las costillas se aprecia el signo del cocodrilo formado por las cabezas de costillas y el espacio intercostal interpuesto, la línea hiperecoica representa la interfase Pulmón - Pleura"
+CAVIDAD ABDOMINAL,Imagen en espejo de hígado dentro del tórax que descarta presencia de efusión pleural
+"TORAX , PULMONES",Presencia de efusión pleural en mediastino craneal
+"TORAX , PULMONES",Evaluación ecográfica enfocada en el tórax de paciente con trauma (TFAST)
+"TORAX , PULMONES",Signo de deslizamiento pleural positivo (normal)
+"TORAX , PULMONES","Signo de escalón por desvió del signo de deslizamiento de la continuidad normal de Pulmón Pleura  sugerente de desgarro intercostal, trauma de pared torácica, alteración del espacio pleural o afección"
+"TORAX , PULMONES",Cohetes pulmonares o colas de cometa representativos de contusión pulmonar secundaria a trauma o edema intersticial en pacientes no traumatizados
+"TORAX , PULMONES",Presenta signo de pulso pulmonar por deslizamiento hacia atrás y hacia adelante con cada latido cardiaco
+"TORAX , PULMONES","Signo de punto pulmonar en tercio medio, tercio superior y tercio inferior torácico que establece diagnóstico de neumotórax masivo"
+"TORAX , PULMONES",Signo de punto pulmonar en tercio superior torácico que establece diagnóstico de neumotórax  parcial
+"TORAX , PULMONES",Presencia de enfisema subcutáneo
+"TORAX , PULMONES",Imagen en espejo de hígado dentro del tórax que descarta presencia de efusión pleural
+"TORAX , PULMONES",Cohetes pulmonares confluentes fusionados en vista hepato diafragmática de patrón pulmón blanco
+"TORAX , PULMONES",Efusión pericárdica donde el líquido contenido queda en evidencia por un borde hiperecoico compatible con el saco pericárdico que rodea el corazón
+MUSCULAR,Deformación indiferenciada de los planos musculares o no caracterizada de presentación ecogénica mixta
+MUSCULAR,Evaluación de una tumefacción de tejido blando muscular con proceso inflamatorio anecogénico encapsulado
+MUSCULAR,Perdida de continuidad de la pared muscular por hernia con anillo hiperecogénico
+MUSCULAR,Contenido aéreo en tumefacción de tejido blando
+MUSCULAR,"Presencia de masa infiltrativa muscular con ecogenicidad mixta, estructuras trabeculadas con contenido anecoico"
+GLANDULA TIROIDES,"Vista longitudinal  lóbulo tiroideo, medial a la arteria carótida, parénquima tiroideo ligeramente más ecogénico con textura fina que la musculatura cervical adyacente"
+GLANDULA TIROIDES,Posición envuelta por una vaina hiperecogenica delgada
+GLANDULA TIROIDES,Músculos esternocefalicos y esterno hioideos están superficiales a la tiroides con características ecogénicas conservadas.
+GLANDULA TIROIDES,Características ecogénicas conservadas
+GLANDULA TIROIDES,"Quistes foliculares tiroideos bilaterales 
+"
+GLANDULA TIROIDES,Glándula tiroidea izquierda presenta
+GLANDULA TIROIDES,Glándula tiroidea derecha presenta
+GLANDULA TIROIDES,Múltiples focos hiperecogénicos en la glándula
+GLANDULA TIROIDES,Múltiples focos hipoecogénicos en la glándula
+GLANDULA TIROIDES,Examen Doppler color de la glándula tiroidea que muestra un buen flujo sanguíneo parenquimatoso
+GLANDULA TIROIDES,Compatibilidad con adenomas paratiroideos
+"GRANDES VASOS, VENAS Y ARTERIA",Lumen anecoico alineado horizontal mente de la vena yugular
+"GRANDES VASOS, VENAS Y ARTERIA",Liquido perivascular anecoico superficial a la vena por hematoma
+"GRANDES VASOS, VENAS Y ARTERIA",Gggggggggggggg
+"GRANDES VASOS, VENAS Y ARTERIA",Liquido perivascular anecoico superficial a la vena por hematoma
+"GRANDES VASOS, VENAS Y ARTERIA",Liquido perivascular anecoico superficial a la vena por hematoma
+"GRANDES VASOS, VENAS Y ARTERIAS",Lumen anecoico alineado horizontalmete de la vena yugular
+"GRANDES VASOS, VENAS Y ARTERIAS",Iojljkljkl
+GLANDULAS ADRENALES,HIPOFUNCION MANIFIESTA
+RIÑON IZQUIERDO,"Plantilla 1
+"
+RIÑON IZQUIERDO,Plantilla 1
+VESICULA BILIAR,Plantilla 1
+VESICULA BILIAR,Plantilla 2
+BAZO,Plantilla 1
+VEJIGA URINARIA,Plantilla 1
+HUESOS,Plantilla 1
+CAVIDAD ABDOMINAL,Plantilla 1
+OVARIOS,"Plantilla 1
+"
+TESTICULOS,Pl1
+RIÑON IZQUIERDO,"Plantilla 2
+"
+RAZAS,"DELFIN
+"
+RAZAS,MESTIZO
+HIGADO,"Parrafo 1
+"
+BAZO,Plantilla 2
+ESTOMAGO,"Parrafo 1
+"
+ESTOMAGO,"Parrafo 2
+"
+CONCLUSIONES,Parrafo de conclusiones
+BAZO,"Parrafo 1
+"
+GLANDULA TIROIDES,Flujo vascular -------
+GLANDULA TIROIDES,LLongitud del lobulo izquierdo ____
+OBSERVACIONES,Observacion 167
+OBSERVACIONES,"Observacion 2
+"
+RECOMENDACIONES,Recomendacion 1
+DIAGNOSTICOS DIFERENCIALES,Diag dif 1
+IMPRESION DIAGNOSTICA,Impresion 1
+GASTROSCOPIA,"GASTRO 1
+"
+GASTROSCOPIA,GASTRO 2
+COLONOSCOPIA,COLONO 1
+COLONOSCOPIA,"COLONO 2
+"
+CADERA,hjsdeh dws mjdf dsfjmhsfv jfsv fsdv jfj vf fb bb
+INTESTINO GRUESO,Hinchazon tipo alfa
+BAZO,Parénquima homogenea
+MOTIVOS,"Estudio de gestación
+"
+BAZO,Largo aumentado
+INTESTINO DELGADO,Intestino agrandado tipo alfa
+URETRA,Hinchada por la parte dercha
+,
+,
+,
+TRATAMIE,ATAMEL
+TRATAMIE,OMEPRAZOL
+TRATAMIE,AMLODIPINO
+TRATAMIE,ENALAPRIL 5 MG BID
+TRATAMIE,ESPIRONOLACTONA 6.25 MG SID
+TRATAMIE,FUROSEMIDA 20 MG TID BID SID PRN
+TRATAMIE,DIETA HIPOSODICA
+TRATAMIE,DILTIAZEM
+TRATAMIE,VETMEDIN 2.5 MG BID
+TRATAMIE,VETMEDIN 5 MG BID
+TRATAMIE,VETMEDIN 1.25 MG BID
+TRATAMIE,RESTRICCION DEL EJERCICIO
+TRATAMIE,FUROSEMIDA
+TRATAMIE,REMINAL 2.5 MG BID
+TRATAMIE,TRAMADOL
+TRATAMIE,PREDNISONA
+TRATAMIE,NINGUNO
+TRATAMIE,CORAZEM
+TRATAMIE,CARDIAL
+TRATAMIE,POTASIO
+TRATAMIE,DIGOXINA
+TRATAMIE,DRENAJE TORAXICO
+TRATAMIE,AMIODARONA
+TRATAMIE,PROPANOLOL
+TRATAMIE,PIMOBENDAN 2.5 MG BID
+TRATAMIE,CONCOR 1.25 BID
+TRATAMIE,AMLODIPINA
+TRATAMIE,PREDNISONA 5 MG BID X 7 D SID X 7 D QOD X 7D
+TRATAMIE,LISINOPRIL
+TRATAMIE,HIDROCLOROTIAZIDA 0.625 SID
+INTESTINO DELGADO,Enfermedad tipo alfa
+OVARIOS,Presenta ovario alfa
+BAZO,aumento de volumen
+VEJIGA URINARIA,Se evidenció en su topografia habitual
+TRATAMIE,XZP
+ESTOMAGO,Presenta aumento alfa
+ESTOMAGO,"Parrafo 3
+"
+REFERIDOS,Clinica Suiza
+RAZAS,CRUZA
+REFERIDOS,CAMILA PAOLINI
+EQUIPOS,MINDRAY KL
+RIÑON IZQUIERDO,HHHHHHHHHDDDHDHDHHDH FFFF
+VESICULA BILIAR,"Glaucoma
+"
+URETRA,Uretra tipo alfa
+CONCLUSIONES,Litiasis
+CONCLUSIONES,Neoplasia hepatica
+"TORAX , PULMONES",Thjhjgfn fgn gfjhgfjhgfjkgf ngf gf gfjngfjgfjjgf ngf fgjgfjjgjjg
+REFERIDOS,"CLINICA PARAGUAY
+"
+BAZO,Ancho disminuido
+CONCLUSIONES,Tumor de higado
+CONCLUSIONES,Tumor de bazo
+PLACA1,INFORME DE ECOGRAFIA
+PLACA1,INFORME DE RADIOLOGIA
+EQUIPOS,SONOSCAPE ULTRA
