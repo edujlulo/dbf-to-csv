@@ -1,16 +1,19 @@
 import pandas as pd
+import csv
 
 # Load the CSV file
-df = pd.read_csv("frases_filtered.csv")
+df = pd.read_csv("frases_filtradas.csv")
 
 # Mapping: Spanish -> English
 mapping = {
     "HIGADO": "liver",
     "RAZAS": "breed",
     "VESICULA BILIAR": "gallbladder",
+    "VESICULA BILIARnes": "gallbladder",
     "ESTOMAGO": "stomach",
     "INTESTINO DELGADO": "small_intestine",
     "UTERO": "uterus",
+    "UTERO RESPUESTA": "uterus",
     "PROSTATA": "diagnosis",
     "RIÑON IZQUIERDO": "left_kidney",
     "INTESTINO GRUESO": "colon",
@@ -49,25 +52,19 @@ mapping = {
     "RECOMENDACIONES": "conclusions",
 }
 
-# Filter rows: keep ONLY valid CAMPO values
-filtered_df = df[df["CAMPO"].isin(mapping.keys())].copy()
+# Filter rows: keep ONLY valid category values
+filtered_df = df[df["category"].isin(mapping.keys())].copy()
 
 # Replace Spanish with English values
-filtered_df["CAMPO"] = filtered_df["CAMPO"].map(mapping)
-
-# Rename columns
-filtered_df = filtered_df.rename(columns={
-    "CAMPO": "category",
-    "FRASE": "content"
-})
+filtered_df["category"] = filtered_df["category"].map(mapping)
 
 # Clean line breaks
 filtered_df["content"] = filtered_df["content"].str.replace("\n", " ", regex=False)
 
 # Save CSV with proper quoting
 filtered_df.to_csv(
-    "frases_cleaned.csv",
+    "default_templates_without_vet_id.csv",
     index=False,
     encoding="utf-8",
-    quoting=1  # csv.QUOTE_ALL
+    quoting=csv.QUOTE_ALL
 )
